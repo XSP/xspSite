@@ -158,5 +158,5 @@ a.button { text-decoration:none; }
 #parallax .ax { background:#b4a511; width:10px; height:10px; opacity:0.6; right:9%; top:8% }
 #parallax .ay { background:#c58617; width:09px; height:09px; opacity:0.7; right:30%; top:2% }
 #parallax .az { background:#c21e5f; width:50px; height:50px; opacity:0.8; right:7%; top:20% }
-ul.gallery li{float:left;margin:10px;width:180px;overflow: hidden;}
+ul.gallery li{float:left;margin:10px;width:180px;overflow: hidden;box-shadow:1px 0 2px #333;}
 ul.gallery li img{width: 300px;}
