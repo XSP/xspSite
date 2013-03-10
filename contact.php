@@ -67,7 +67,7 @@ label.error { width: 600px; display: inline; color: red; }
   <div class="header">
     <div class="xsp"></div>
     <div class="headCont"><img src="images/logo.png" class="logoPrime" alt="XSP" width="100" />
-      <nav> <a href="index" class="overviewB "> <span class="pop">overview</span> </a> <a href="services" class="servicesB"> <span class="pop">our services</span> </a> <a href="ways" class="ways"> <span class="pop">our ways</span> </a> <a href="gallery" class="gallery"> <span class="pop">gallery</span> </a> <a href="contact" class="contact select"> <span class="pop">contact us</span> </a> </nav>
+      <nav> <a href="index" class="overviewB "> <span class="pop">overview</span> </a> <a href="services" class="servicesB"> <span class="pop">our services</span> </a> <a href="ways" class="ways"> <span class="pop">our ways</span> </a> <a href="portfolio" class="portfolio"> <span class="pop">portfolio</span> </a> <a href="contact" class="contact select"> <span class="pop">contact us</span> </a> </nav>
     </div>
   </div>
   <br>

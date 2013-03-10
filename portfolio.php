@@ -48,7 +48,7 @@
 		<div class="header">
 			<div class="xsp"></div>
 			<div class="headCont"><img src="images/logo.png" class="logoPrime" alt="XSP" width="100" />
-				<nav> <a href="index" class="overviewB"> <span class="pop">overview</span> </a> <a href="services" class="servicesB"> <span class="pop">our services</span> </a> <a href="ways" class="ways"> <span class="pop">our ways</span> </a> <a href="gallery select" class="gallery"> <span class="pop">gallery</span> </a> <a href="contact" class="contact"> <span class="pop">contact us</span> </a> </nav>
+				<nav> <a href="index" class="overviewB"> <span class="pop">overview</span> </a> <a href="services" class="servicesB"> <span class="pop">our services</span> </a> <a href="ways" class="ways"> <span class="pop">our ways</span> </a> <a href="portfolio" class="portfolio select"> <span class="pop">portfolio</span> </a> <a href="contact" class="contact"> <span class="pop">contact us</span> </a> </nav>
 			</div>
 		</div>
 		<br>

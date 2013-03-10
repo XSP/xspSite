@@ -41,25 +41,25 @@ nav .select { cursor:default; }
 nav .overviewB { background-position:-6px -698px }
 nav .servicesB { background-position:-8px -745px }
 nav .ways { background-position:-8px -798px }
-nav .gallery {background-position:-8px -958px }
+nav .portfolio {background-position:-8px -958px }
 nav .about { background-position:-9px -895px }
 nav .contact { background-position:-9px -908px; }
 nav .overviewB:hover { background-position:-76px -698px }
 nav .servicesB:hover { background-position:-78px -745px }
 nav .ways:hover { background-position:-78px -798px }
-nav .gallery:hover {background-position:-78px -958px}
+nav .portfolio:hover {background-position:-78px -958px}
 nav .about:hover { background-position:-79px -895px }
 nav .contact:hover { background-position:-79px -908px; }
 nav .overviewB:active { background-position:-142px -698px }
 nav .servicesB:active { background-position:-144px -745px }
 nav .ways:active { background-position:-144px -798px }
-nav .gallery:active {background-position:-144px -958px }
+nav .portfolio:active {background-position:-144px -958px }
 nav .about:active { background-position:-145px -895px }
 nav .contact:active { background-position:-145px -908px; }
 nav .overviewB.select { background-position:-206px -698px }
 nav .servicesB.select { background-position:-208px -745px }
 nav .ways.select { background-position:-208px -798px }
-nav .gallery.select { background-position:-208px -958px }
+nav .portfolio.select { background-position:-208px -958px }
 nav .about.select { background-position:-209px -895px }
 nav .contact.select { background-position:-209px -908px; }
 nav .pop:before { background-image:url(../images/pop.png) no-repeat center -5px; content:""; }
@@ -162,5 +162,5 @@ a.button { text-decoration:none; }
 #parallax .ax { background:#b4a511; width:10px; height:10px; opacity:0.6; right:9%; top:8% }
 #parallax .ay { background:#c58617; width:09px; height:09px; opacity:0.7; right:30%; top:2% }
 #parallax .az { background:#c21e5f; width:50px; height:50px; opacity:0.8; right:7%; top:20% }
-ul.gallery li{float:left;margin:10px;width:180px;height:350px;overflow: hidden;box-shadow:1px 0 2px #333;}
-ul.gallery li img{width: 300px;}
+ul.portfolio li{float:left;margin:10px;width:180px;height:350px;overflow: hidden;box-shadow:1px 0 2px #333;}
+ul.portfolio li img{width: 300px;}
