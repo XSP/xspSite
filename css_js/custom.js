@@ -3,7 +3,7 @@ $(document).ready(function() {
 	jQuery('#parallax').jparallax({
 	});
 	
-	/*$('.overviewB, .servicesB, .ways, .about, .contact').click(function () {
+	/*$('.overviewB, .servicesB, .ways, .about, .contact, .gallery').click(function () {
 		$('nav a').removeClass('select'),
 		$(this).addClass('select');
 	});*/

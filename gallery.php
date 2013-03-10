@@ -55,11 +55,13 @@
 		<div class="wrapperBG">
 		<section class="wrapper">
 			<ul class="gallery clearfix">
-				<li><a href="images/fullscreen/2.jpg" rel="prettyPhoto[gallery1]"><img src="images/thumbnails/t_2.jpg" alt="Nice building" /></a></li>
-				<li><a href="images/fullscreen/3.jpg" rel="prettyPhoto[gallery1]"><img src="images/thumbnails/t_3.jpg" alt="Fire!" /></a></li>
-				<li><a href="images/fullscreen/4.jpg" rel="prettyPhoto[gallery1]"><img src="images/thumbnails/t_4.jpg" alt="Rock climbing" /></a></li>
-				<li><a href="images/fullscreen/5.jpg" rel="prettyPhoto[gallery1]"><img src="images/thumbnails/t_5.jpg" alt="Fly kite, fly!" /></a></li>
-				<li><a href="images/fullscreen/6.jpg" rel="prettyPhoto[gallery1]"><img src="images/thumbnails/t_2.jpg" alt="Nice building" /></a></li>
+				<li><a href="images/fullscreen/1.png" rel="prettyPhoto[gallery1]"><img src="images/fullscreen/1.png" alt="Nice building" /></a></li>
+				<li><a href="images/fullscreen/2.png" rel="prettyPhoto[gallery1]"><img src="images/fullscreen/2.png" alt="Fire!" /></a></li>
+				<li><a href="images/fullscreen/3.png" rel="prettyPhoto[gallery1]"><img src="images/fullscreen/3.png" alt="Rock climbing" /></a></li>
+				<li><a href="images/fullscreen/4.png" rel="prettyPhoto[gallery1]"><img src="images/fullscreen/4.png" alt="Fly kite, fly!" /></a></li>
+				<li><a href="images/fullscreen/5.png" rel="prettyPhoto[gallery1]"><img src="images/fullscreen/5.png" alt="Nice building" /></a></li>
+				<li><a href="images/fullscreen/6.png" rel="prettyPhoto[gallery1]"><img src="images/fullscreen/6.png" alt="Nice building" /></a></li>
+				<li><a href="images/fullscreen/7.png" rel="prettyPhoto[gallery1]"><img src="images/fullscreen/7.png" alt="Nice building" /></a></li>
 			</ul>
 		</section>
 		</div>
