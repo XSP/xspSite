@@ -54,7 +54,7 @@
 		<br>
 		<div class="wrapperBG">
 		<section class="wrapper">
-			<ul class="gallery clearfix">
+			<ul class="portfolio clearfix">
 				<li><a href="images/fullscreen/1.jpg" rel="prettyPhoto[gallery1]"><img src="images/fullscreen/1.jpg" alt="Nice building" /></a></li>
 				<li><a href="images/fullscreen/2.jpg" rel="prettyPhoto[gallery1]"><img src="images/fullscreen/2.jpg" alt="Fire!" /></a></li>
 				<li><a href="images/fullscreen/3.jpg" rel="prettyPhoto[gallery1]"><img src="images/fullscreen/3.jpg" alt="Rock climbing" /></a></li>
