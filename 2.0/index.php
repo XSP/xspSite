@@ -19,7 +19,7 @@
 				<li>Overview</li>
 				<li>Services</li>
 				<li>Process</li>
-				<li>Gallery</li>
+				<li>portfolio</li>
 				<li>Contact us</li>
 			</ul>
 		</nav>
@@ -84,14 +84,14 @@
 				</ul>
 			</div>			
 		</div>
-		<div id="gallery">
+		<div id="portfolio">
 			<div class="wrapper">
 				<h2>Show off</h2>
 			</div>
 		</div>
 		<div id="contactus">
 			<div class="wrapper">
-				<h2>Utilize us</h2>
+				<h2>Our works &amp; portfolio</h2>
 			</div>
 		</div>
 		<footer>© Copy Rights reserved - XSP Xtra Sensory Perception</footer>

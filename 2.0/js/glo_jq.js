@@ -21,7 +21,7 @@ $(function(){
 	var pos = $(window).innerHeight();
 	$(".wrapper").css("min-height",pos);
 
-	$("footer").css("top",pos-26+"px");
+	$("footer").css("top",pos-25+"px");
 
 	$("nav ul li").click(function(){
 
