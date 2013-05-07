@@ -8,21 +8,18 @@ html{
 		h2{
 			font-family: robotoThin, ubuntu, Verdana, Tahoma, sans-serif;
 			font-size: 50px;
-			padding: 60px 0 0;
+			margin: 50px 0;
+			padding: 15px 0;
+			text-shadow:0 0 2px #666666;
+			background: #f8f8f8;
 			text-align: center;
-			text-shadow:0 2px 1px #333;
-			&:after{
-				content: "a";
-				border-top:1px solid #333;
-				border-bottom:1px solid #fff;
-			}
+			overflow: visible;
+			width: 100%;
 		}
 		p{
 			margin-bottom: 15px;
 		}
 		.wrapper{
-			width:80%;
-			margin:0 auto;
 			overflow:hidden;
 			h3{
 				color: @xspGreen;
@@ -38,6 +35,10 @@ html{
 				position: absolute;
 				left: 0;
 				z-index: 0;
+			}
+			>.width80{
+				width:80%;
+			margin:0 auto;
 			}
 		}
 		nav{
@@ -70,7 +71,6 @@ html{
 		}
 		#home{
 			background: url(../images/homeBG.jpg) no-repeat 50% top;
-			border-bottom: 40px solid @xspGreen;
 			.message{
 				font-size:60px;
 			}
@@ -94,6 +94,7 @@ html{
 			font-size: 12px;
 			text-align: center;
 			z-index:3;
+			bottom:0;
 		}
 	}
 }
