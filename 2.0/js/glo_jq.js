@@ -31,10 +31,10 @@ $(function(){
 		$(this).addClass("selected");
 
 		//$("body,html").animate({scrollTop:($(this).index())*pos},300,"swing");
-		
+
 		//console.log(clicked);//$("body,html").scrollTo($(clicked),{duration:300});
 		$("body,html").scrollTo("#"+clicked, 600);
-		
+
 	});
 
 	$(window).scroll(function(){
@@ -52,7 +52,7 @@ $(document).ready(function(){
       debug: false,
       rules: {
         name: "required",
-        contact_no: { 
+        contact_no: {
                 required:true,
                 number:true
         },
