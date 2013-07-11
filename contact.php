@@ -51,7 +51,7 @@
                     name: "Please let us know who you are",
                     contact_no: "Please provide your contact number",
                     email: "A valid email will help us get in touch with you",
-                    message: "Pleasge enter a message",
+                    message: "Please enter a message"
                 },
                 submitHandler: function (form) {
                     // do other stuff for a valid form

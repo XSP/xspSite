@@ -23,9 +23,9 @@ h3 { font-size:16px; line-height: 16px; }
 .shadow { background:url(../images/sprite.png) no-repeat -388px 0px; height: 44px; margin: -24px auto 0; width: 530px; }
 .cs { color:#55c4c4; width:100%; text-align:center; font-size:40px; margin:20px 0 0; }
 .greyT { color:#526068; }
-footer { float:left; clear:both; width:100%; position:relative; z-index:2; background:#333; color:#ccc; }
-.footCont { position:relative; height: 20px; width:100%; position:relative; }
-.copyRight { text-align:center; width:100%; margin:5px 0 0; }
+footer { float:left; clear:both; width:100%; position:fixed; bottom:0; z-index:2; background:#333; color:#ccc; font-size:9px;}
+.footCont { position:relative; width:100%; position:relative; }
+.copyRight { text-align:center; width:100%; margin:0 0; }
 .needField { width:600px; margin:0 auto; color:red; text-align:center; }
 .person p { text-align:left; }
 /***************  |||---NAVIGATION---|||  *********************/

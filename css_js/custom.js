@@ -7,4 +7,7 @@ $(document).ready(function() {
 		$('nav a').removeClass('select'),
 		$(this).addClass('select');
 	});*/
+    var winHeight = (window.innerHeight);
+    $('.wrapper').css("min-height",(winHeight)-126);
+    $('#parallax').css("height",winHeight);
 });
