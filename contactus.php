@@ -2,7 +2,7 @@
     <div class="wrapper">
         <h1>Contact us</h1>
 
-        <div class="contactUs">
+        <div class="contact-us">
             <div class="needField" id="results"></div>
             <div class="unit">
                 <form name="myform" id="myform" action="" method="POST">
