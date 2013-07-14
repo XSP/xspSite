@@ -19,8 +19,8 @@ $(function () {
         //content.load(loadPage+".php");
 
         content.children().removeClass("in-view");
-        $("."+loadPage).addClass("in-view");
-        $("."+loadPage).load(loadPage+".php");
+        content.children("."+loadPage).addClass("in-view");
+        content.children("."+loadPage).load(loadPage+".php");
     });
 
 });
