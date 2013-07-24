@@ -1,26 +1,30 @@
 $(function () {
 
-    var content = $(".content");
-    content.children(".home").load("home.php");
+    var content, visibleHeight, navSwitch;
+    content = $(".content");
+    visibleHeight = window.innerHeight;
+    //onload homepage is loaded by default
+    content.children("#home").load("home.php", function(){
+        $(this).children().attr("style", "min-height:" + visibleHeight + "px;");
+    });
+    //$('.wrapper').attr("style", "min-height:" + visibleHeight + "px;");
 
-    var navSwitch = $("nav ul li");
+    navSwitch = $("nav ul li");
 
     navSwitch.click(function () {
-        var that = $(this)
-        loadPage = "";
+        var that, loadPage;
+        that = $(this);
+
 
         navSwitch.removeClass("selected");
         that.addClass("selected");
 
-        loadPage = that.html().toLowerCase().replace(/\s/g,'');
+        loadPage = that.html().toLowerCase().replace(/\s/g, '');
 
-        //content.children().addClass('moveout');
-        //console.log(content.children());
-        //content.load(loadPage+".php");
+        $("#" + loadPage).load(loadPage + ".php", function () {
+            $(".wrapper").attr("style", "min-height:" + visibleHeight + "px;");
+            $(window).scrollTo($(this),300);
+        });
 
-        content.children().removeClass("in-view");
-        content.children("."+loadPage).addClass("in-view");
-        content.children("."+loadPage).load(loadPage+".php");
     });
-
 });

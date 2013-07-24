@@ -17,20 +17,18 @@
 <nav>
     <ul>
         <li class="selected">Home</li>
-        <li>Overview</li>
-        <li>Services</li>
-        <li>Process</li>
+        <li>Solutions</li>
         <li>Portfolio</li>
-        <li>Contact us</li>
+        <li>Enquiry</li>
     </ul>
 </nav>
 <div class="content span12">
-    <div class="home"></div>
-    <div class="overview"></div>
-    <div class="services"></div>
-    <div class="process"></div>
-    <div class="portfolio"></div>
-    <div class="contactus"></div>
+    <div id="home"></div>
+    <div id="overview"></div>
+    <div id="solutions"></div>
+    <div id="process"></div>
+    <div id="portfolio"></div>
+    <div id="enquiry"></div>
 </div>
 <footer>© Copy Rights reserved - XSP Xtra Sensory Perception</footer>
 <script data-main="scripts/main" src="scripts/require.js" type="text/javascript"></script>
