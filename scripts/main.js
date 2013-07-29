@@ -6,7 +6,7 @@ require(["jquery", "scrollTo"], function(){
         visibleHeight = window.innerHeight;
         //onload homepage is loaded by default
         content.children("#home").load("home.php", function () {
-            $(this).children().attr("style", "min-height:" + visibleHeight + "px;");
+            $(this).children().attr("style", "min-height:" + (visibleHeight-100) + "px;");
         });
         //$('.wrapper').attr("style", "min-height:" + visibleHeight + "px;");
 
