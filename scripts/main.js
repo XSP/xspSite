@@ -1,12 +1,18 @@
-require(["jquery", "scrollTo"], function(){
+require(["jquery", "scrollTo"], function () {
     $(function () {
+
+        $('#loadingDiv').hide().ajaxStart(function () {
+            $(this).show();  // show Loading Div
+        }).ajaxStop(function () {
+            $(this).hide(); // hide loading div
+        });
 
         var content, visibleHeight, navSwitch;
         content = $(".content");
         visibleHeight = window.innerHeight;
         //onload homepage is loaded by default
         content.children("#home").load("home.php", function () {
-            $(this).children().attr("style", "min-height:" + (visibleHeight-100) + "px;");
+            $(this).children().attr("style", "min-height:" + (visibleHeight - 100) + "px;");
         });
         //$('.wrapper').attr("style", "min-height:" + visibleHeight + "px;");
 
