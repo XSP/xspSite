@@ -36,14 +36,14 @@ $(function () {
                 $(window).scrollTo($(this), 300);
             });
         }
-        else{
+        else {
             $(window).scrollTo($("#" + loadPage), 300);
         }
     });
 
 
-    $(window).scroll(function(){
-        $(".wrapper div").one('inview', function(){
+    $(window).scroll(function () {
+        $(".wrapper div").one('inview', function () {
             console.log($(this).children('h2').html());
         });
     });
