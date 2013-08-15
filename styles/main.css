@@ -378,6 +378,12 @@ html body .wrapper > .width80 {
   width: 80%;
   margin: 0 auto;
 }
+html body .wrapper .gallery {
+  margin: 50px 0 0;
+}
+html body .wrapper .gallery img {
+  width: 200px;
+}
 html body #header {
   position: fixed;
   left: 0px;
