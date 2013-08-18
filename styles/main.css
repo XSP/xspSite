@@ -381,8 +381,15 @@ html body .wrapper > .width80 {
 html body .wrapper .gallery {
   margin: 50px 0 0;
 }
-html body .wrapper .gallery img {
+html body .wrapper .gallery .sec {
+  clear: both;
+  width: 100%;
+  margin: 0 0 20px;
+  float: left;
+}
+html body .wrapper .gallery .sec img {
   width: 200px;
+  float: left;
 }
 html body #header {
   position: fixed;

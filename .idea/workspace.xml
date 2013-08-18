@@ -2,25 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6ade5447-2480-4c38-8378-dad33964764e" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/works/1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/works/tumb/1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/works/2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/works/tumb/2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/works/3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/works/tumb/3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/works/4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/works/tumb/4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/works/5.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/works/tumb/5.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/works/6.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/works/tumb/6.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/works/7.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/works/tumb/7.jpg" />
-      <change type="DELETED" beforePath="F:\XSP\xspSite\images\light_wool\__MACOSX\light_wool\._light_wool_@2X.png" afterPath="" />
-      <change type="DELETED" beforePath="F:\XSP\xspSite\images\light_wool\__MACOSX\light_wool\._readme.txt" afterPath="" />
-      <change type="DELETED" beforePath="F:\XSP\xspSite\images\light_wool\light_wool\light_wool.png" afterPath="" />
-      <change type="DELETED" beforePath="F:\XSP\xspSite\images\light_wool\light_wool\light_wool_@2X.png" afterPath="" />
-      <change type="DELETED" beforePath="F:\XSP\xspSite\images\light_wool\light_wool\readme.txt" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/styles/main.css" afterPath="$PROJECT_DIR$/styles/main.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/portfolio.php" afterPath="$PROJECT_DIR$/portfolio.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/styles/site.less" afterPath="$PROJECT_DIR$/styles/site.less" />
@@ -29,7 +10,7 @@
     <ignored path="xspSite.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path=".idea/" />
-    <file path="/Dummy.txt" changelist="6ade5447-2480-4c38-8378-dad33964764e" time="1376580902202" ignored="false" />
+    <file path="/Dummy.txt" changelist="6ade5447-2480-4c38-8378-dad33964764e" time="1376829752404" ignored="false" />
     <file path="/index.php" changelist="6ade5447-2480-4c38-8378-dad33964764e" time="1375472706682" ignored="false" />
     <file path="/glo_jq.js" changelist="6ade5447-2480-4c38-8378-dad33964764e" time="1372611790136" ignored="false" />
     <file path="/a.dummy" changelist="6ade5447-2480-4c38-8378-dad33964764e" time="1375465980261" ignored="false" />
@@ -40,7 +21,7 @@
     <file path="F:/mobileApp prototype/index.html" changelist="6ade5447-2480-4c38-8378-dad33964764e" time="1373114110658" ignored="false" />
     <file path="/Dummy.xpath" changelist="6ade5447-2480-4c38-8378-dad33964764e" time="1373113996124" ignored="false" />
     <file path="/CSS Fragment (index.html:33).css" changelist="6ade5447-2480-4c38-8378-dad33964764e" time="1373113656160" ignored="false" />
-    <file path="/dummy.xml" changelist="6ade5447-2480-4c38-8378-dad33964764e" time="1376549794590" ignored="false" />
+    <file path="/dummy.xml" changelist="6ade5447-2480-4c38-8378-dad33964764e" time="1376838149507" ignored="false" />
     <file path="/universal.css" changelist="6ade5447-2480-4c38-8378-dad33964764e" time="1373448371688" ignored="false" />
     <file path="/custom.js" changelist="6ade5447-2480-4c38-8378-dad33964764e" time="1373447900634" ignored="false" />
     <file path="/main.less" changelist="6ade5447-2480-4c38-8378-dad33964764e" time="1376547613678" ignored="false" />
@@ -48,7 +29,7 @@
     <file path="/var-mixins.less" changelist="6ade5447-2480-4c38-8378-dad33964764e" time="1373575380158" ignored="false" />
     <file path="/variables.less" changelist="6ade5447-2480-4c38-8378-dad33964764e" time="1373576018327" ignored="false" />
     <file path="/reset.less" changelist="6ade5447-2480-4c38-8378-dad33964764e" time="1375130197983" ignored="false" />
-    <file path="/site.less" changelist="6ade5447-2480-4c38-8378-dad33964764e" time="1376548980290" ignored="false" />
+    <file path="/site.less" changelist="6ade5447-2480-4c38-8378-dad33964764e" time="1376838030652" ignored="false" />
     <file path="/main.css" changelist="6ade5447-2480-4c38-8378-dad33964764e" time="1375044987692" ignored="false" />
     <file path="/mixins.less" changelist="6ade5447-2480-4c38-8378-dad33964764e" time="1375466707408" ignored="false" />
     <file path="/main.js" changelist="6ade5447-2480-4c38-8378-dad33964764e" time="1375474753095" ignored="false" />
@@ -64,7 +45,7 @@
     <file path="$PROJECT_DIR$/styles/bootstrap/dropdowns.less" changelist="6ade5447-2480-4c38-8378-dad33964764e" time="1376494202371" ignored="false" />
     <file path="$PROJECT_DIR$/styles/bootstrap/mixins.less" changelist="6ade5447-2480-4c38-8378-dad33964764e" time="1376494202371" ignored="false" />
     <file path="$PROJECT_DIR$/styles/bootstrap/reset.less" changelist="6ade5447-2480-4c38-8378-dad33964764e" time="1376494202371" ignored="false" />
-    <file path="/portfolio.php" changelist="6ade5447-2480-4c38-8378-dad33964764e" time="1376549903116" ignored="false" />
+    <file path="/portfolio.php" changelist="6ade5447-2480-4c38-8378-dad33964764e" time="1376838148922" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -86,19 +67,19 @@
     <splitter split-orientation="horizontal" split-proportion="0.47386965">
       <split-first>
         <leaf>
-          <file leaf-file-name="portfolio.php" pinned="false" current="false" current-in-tab="false">
+          <file leaf-file-name="portfolio.php" pinned="false" current="true" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/portfolio.php">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="17" column="51" selection-start="651" selection-end="651" vertical-scroll-proportion="-11.115385">
+                <state line="66" column="21" selection-start="4420" selection-end="4420" vertical-scroll-proportion="0.7892562">
                   <folding />
                 </state>
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="main.css" pinned="false" current="true" current-in-tab="true">
+          <file leaf-file-name="main.css" pinned="false" current="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/styles/main.css">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="232" column="14" selection-start="4416" selection-end="4416" vertical-scroll-proportion="0.30779392">
+                <state line="305" column="52" selection-start="6356" selection-end="6356" vertical-scroll-proportion="0.0">
                   <folding />
                 </state>
               </provider>
@@ -120,7 +101,7 @@
           <file leaf-file-name="site.less" pinned="false" current="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/styles/site.less">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="117" column="53" selection-start="3134" selection-end="3134" vertical-scroll-proportion="0.023224045">
+                <state line="132" column="32" selection-start="3529" selection-end="3529" vertical-scroll-proportion="0.35185185">
                   <folding />
                 </state>
               </provider>
@@ -234,7 +215,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -253,80 +233,21 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="xspSite" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="xspSite" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="styles" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="xspSite" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="xspSite" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="scripts" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="xspSite" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="xspSite" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="images" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="xspSite" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="xspSite" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="images" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="works" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="options.lastSelected" value="vcs.Git" />
     <property name="recentsLimit" value="5" />
+    <property name="options.lastSelected" value="vcs.Git" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/styles" />
     <property name="FullScreen" value="true" />
-    <property name="options.splitter.details.proportions" value="0.2" />
-    <property name="options.searchVisible" value="true" />
     <property name="GoToClass.includeJavaFiles" value="false" />
+    <property name="options.searchVisible" value="true" />
+    <property name="options.splitter.details.proportions" value="0.2" />
   </component>
   <component name="PublishConfig">
     <servers>
@@ -417,7 +338,11 @@
       <created>1375474839449</created>
       <updated>1375474839450</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="in-progress: portfolio">
+      <created>1376580960905</created>
+      <updated>1376580960905</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TodoView" selected-index="0">
@@ -442,22 +367,22 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1920" height="1200" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32971016" sideWeight="0.49973643" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Changes" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2789855" sideWeight="0.49920928" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.28221416" sideWeight="0.49920928" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32879046" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24944155" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.10226674" sideWeight="0.7210145" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.10226674" sideWeight="0.71778584" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.20570867" sideWeight="0.49973643" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.107538216" sideWeight="0.30255404" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2789855" sideWeight="0.5007907" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.28221416" sideWeight="0.5007907" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.5611746" sideWeight="0.4996277" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32879046" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.23523623" sideWeight="0.49973643" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32971016" sideWeight="0.49973643" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.18051577" sideWeight="0.49973643" order="5" side_tool="false" content_ui="tabs" />
@@ -547,11 +472,6 @@
     </PATH>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="17" column="33" selection-start="586" selection-end="586" vertical-scroll-proportion="0.34652278" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/styles/bootstrap/dropdowns.less">
       <provider selected="true" editor-type-id="text-editor">
         <state line="93" column="2" selection-start="2106" selection-end="2200" vertical-scroll-proportion="0.0" />
@@ -614,23 +534,30 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/styles/site.less">
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="117" column="53" selection-start="3134" selection-end="3134" vertical-scroll-proportion="0.023224045">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/portfolio.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="17" column="51" selection-start="651" selection-end="651" vertical-scroll-proportion="-11.115385">
+        <state line="12" column="42" selection-start="840" selection-end="840" vertical-scroll-proportion="0.26948482">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/styles/main.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="232" column="14" selection-start="4416" selection-end="4416" vertical-scroll-proportion="0.30779392">
+        <state line="305" column="52" selection-start="6356" selection-end="6356" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/styles/site.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="132" column="32" selection-start="3529" selection-end="3529" vertical-scroll-proportion="0.35185185">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/portfolio.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="66" column="21" selection-start="4420" selection-end="4420" vertical-scroll-proportion="0.7892562">
           <folding />
         </state>
       </provider>
