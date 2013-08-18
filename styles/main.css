@@ -391,6 +391,18 @@ html body .wrapper .gallery .sec img {
   width: 200px;
   float: left;
 }
+html body .wrapper .gallery .sec .cont {
+  width: 400px;
+  float: right;
+}
+html body .wrapper .gallery .sec .border {
+  border-bottom: 1px solid #0088cc;
+  width: 80%;
+  margin: 20px 0;
+  clear: both;
+  height: 1px;
+  float: left;
+}
 html body #header {
   position: fixed;
   left: 0px;
