@@ -22,7 +22,8 @@
 </div>
 <div class="content">
     <div id="loadingDiv">
-        <div id="movingBallG_1" class="movingBallG"></div>
+        <!--<div id="movingBallG_1" class="movingBallG"></div>-->
+        <img src="images/loading.gif" alt="Loading"/>
     </div>
     <div id="home"></div>
     <div id="solutions"></div>

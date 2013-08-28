@@ -2,6 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6ade5447-2480-4c38-8378-dad33964764e" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/arjun-qrcode.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/business-card-both.ai" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/business-card-both.pdf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/loading.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/pavan-business-card-back.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/pavan-business-card-front.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/pavan-business-card.pdf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/pavan-qrcode.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/arjun-qr.eps" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/pavan-qr code.eps" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scripts/pretty-photo.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/pavan-business-card.ai" afterPath="$PROJECT_DIR$/resources/pavan-business-card.ai" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.php" afterPath="$PROJECT_DIR$/index.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/styles/main.css" afterPath="$PROJECT_DIR$/styles/main.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/portfolio.php" afterPath="$PROJECT_DIR$/portfolio.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/styles/site.less" afterPath="$PROJECT_DIR$/styles/site.less" />
@@ -10,10 +23,11 @@
     <ignored path="xspSite.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path=".idea/" />
-    <file path="/Dummy.txt" changelist="6ade5447-2480-4c38-8378-dad33964764e" time="1376829752404" ignored="false" />
-    <file path="/index.php" changelist="6ade5447-2480-4c38-8378-dad33964764e" time="1375472706682" ignored="false" />
+    <ignored path="jquery-photo-gallery/" />
+    <file path="/Dummy.txt" changelist="6ade5447-2480-4c38-8378-dad33964764e" time="1377663266384" ignored="false" />
+    <file path="/index.php" changelist="6ade5447-2480-4c38-8378-dad33964764e" time="1377632223770" ignored="false" />
     <file path="/glo_jq.js" changelist="6ade5447-2480-4c38-8378-dad33964764e" time="1372611790136" ignored="false" />
-    <file path="/a.dummy" changelist="6ade5447-2480-4c38-8378-dad33964764e" time="1375465980261" ignored="false" />
+    <file path="/a.dummy" changelist="6ade5447-2480-4c38-8378-dad33964764e" time="1376849145189" ignored="false" />
     <file path="/Dummy.regexp" changelist="6ade5447-2480-4c38-8378-dad33964764e" time="1373113996124" ignored="false" />
     <file path="/injection.txt" changelist="6ade5447-2480-4c38-8378-dad33964764e" time="1372612938686" ignored="false" />
     <file path="/all.js" changelist="6ade5447-2480-4c38-8378-dad33964764e" time="1372621870511" ignored="false" />
@@ -29,7 +43,7 @@
     <file path="/var-mixins.less" changelist="6ade5447-2480-4c38-8378-dad33964764e" time="1373575380158" ignored="false" />
     <file path="/variables.less" changelist="6ade5447-2480-4c38-8378-dad33964764e" time="1373576018327" ignored="false" />
     <file path="/reset.less" changelist="6ade5447-2480-4c38-8378-dad33964764e" time="1375130197983" ignored="false" />
-    <file path="/site.less" changelist="6ade5447-2480-4c38-8378-dad33964764e" time="1376838030652" ignored="false" />
+    <file path="/site.less" changelist="6ade5447-2480-4c38-8378-dad33964764e" time="1377632945092" ignored="false" />
     <file path="/main.css" changelist="6ade5447-2480-4c38-8378-dad33964764e" time="1375044987692" ignored="false" />
     <file path="/mixins.less" changelist="6ade5447-2480-4c38-8378-dad33964764e" time="1375466707408" ignored="false" />
     <file path="/main.js" changelist="6ade5447-2480-4c38-8378-dad33964764e" time="1375474753095" ignored="false" />
@@ -45,7 +59,7 @@
     <file path="$PROJECT_DIR$/styles/bootstrap/dropdowns.less" changelist="6ade5447-2480-4c38-8378-dad33964764e" time="1376494202371" ignored="false" />
     <file path="$PROJECT_DIR$/styles/bootstrap/mixins.less" changelist="6ade5447-2480-4c38-8378-dad33964764e" time="1376494202371" ignored="false" />
     <file path="$PROJECT_DIR$/styles/bootstrap/reset.less" changelist="6ade5447-2480-4c38-8378-dad33964764e" time="1376494202371" ignored="false" />
-    <file path="/portfolio.php" changelist="6ade5447-2480-4c38-8378-dad33964764e" time="1376838148922" ignored="false" />
+    <file path="/portfolio.php" changelist="6ade5447-2480-4c38-8378-dad33964764e" time="1376940912931" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,10 +81,19 @@
     <splitter split-orientation="horizontal" split-proportion="0.47386965">
       <split-first>
         <leaf>
-          <file leaf-file-name="portfolio.php" pinned="false" current="true" current-in-tab="true">
+          <file leaf-file-name="portfolio.php" pinned="false" current="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/portfolio.php">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="66" column="21" selection-start="4420" selection-end="4420" vertical-scroll-proportion="0.7892562">
+                <state line="8" column="20" selection-start="259" selection-end="259" vertical-scroll-proportion="0.0">
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/jquery-photo-gallery/index.html">
+              <provider selected="true" editor-type-id="text-editor">
+                <state line="23" column="75" selection-start="998" selection-end="998" vertical-scroll-proportion="0.0">
                   <folding />
                 </state>
               </provider>
@@ -79,7 +102,16 @@
           <file leaf-file-name="main.css" pinned="false" current="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/styles/main.css">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="305" column="52" selection-start="6356" selection-end="6356" vertical-scroll-proportion="0.0">
+                <state line="0" column="52" selection-start="52" selection-end="52" vertical-scroll-proportion="0.0">
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="index.php" pinned="false" current="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/index.php">
+              <provider selected="true" editor-type-id="text-editor">
+                <state line="25" column="7" selection-start="769" selection-end="769" vertical-scroll-proportion="0.59274757">
                   <folding />
                 </state>
               </provider>
@@ -98,10 +130,10 @@
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="site.less" pinned="false" current="false" current-in-tab="true">
+          <file leaf-file-name="site.less" pinned="false" current="true" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/styles/site.less">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="132" column="32" selection-start="3529" selection-end="3529" vertical-scroll-proportion="0.35185185">
+                <state line="26" column="32" selection-start="684" selection-end="684" vertical-scroll-proportion="0.023255814">
                   <folding />
                 </state>
               </provider>
@@ -129,7 +161,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/contactus.php" />
         <option value="$PROJECT_DIR$/overview.php" />
         <option value="$PROJECT_DIR$/process.php" />
         <option value="$PROJECT_DIR$/styles/fonts.less" />
@@ -140,11 +171,12 @@
         <option value="$PROJECT_DIR$/styles/bootstrap/reset.less" />
         <option value="$PROJECT_DIR$/scripts/navigator.js" />
         <option value="$PROJECT_DIR$/styles/bootstrap/mixins.less" />
-        <option value="$PROJECT_DIR$/index.php" />
         <option value="$PROJECT_DIR$/scripts/main.js" />
         <option value="$PROJECT_DIR$/styles/main.less" />
-        <option value="$PROJECT_DIR$/styles/site.less" />
         <option value="$PROJECT_DIR$/portfolio.php" />
+        <option value="$PROJECT_DIR$/jquery-photo-gallery/index.html" />
+        <option value="$PROJECT_DIR$/index.php" />
+        <option value="$PROJECT_DIR$/styles/site.less" />
       </list>
     </option>
   </component>
@@ -233,6 +265,52 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="xspSite" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="xspSite" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="scripts" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="xspSite" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="xspSite" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jquery-photo-gallery" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="xspSite" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="xspSite" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jquery-photo-gallery" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="images" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
       <pane id="Scope" />
@@ -243,7 +321,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="recentsLimit" value="5" />
     <property name="options.lastSelected" value="vcs.Git" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/styles" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/jquery-photo-gallery" />
     <property name="FullScreen" value="true" />
     <property name="GoToClass.includeJavaFiles" value="false" />
     <property name="options.searchVisible" value="true" />
@@ -259,6 +337,11 @@
         </serverdata>
       </server>
     </servers>
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\XSP\xspSite\scripts" />
+    </key>
   </component>
   <component name="RunManager" selected="JavaScript Debug.index.php">
     <configuration default="false" name="index.php" type="JavascriptDebugSession" factoryName="Local" singleton="true" temporary="true">
@@ -342,7 +425,11 @@
       <created>1376580960905</created>
       <updated>1376580960905</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="in-progress: portfolio styling">
+      <created>1376854578585</created>
+      <updated>1376854578585</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TodoView" selected-index="0">
@@ -366,23 +453,23 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1920" height="1200" extended-state="6" />
-    <editor active="true" />
+    <frame x="0" y="0" width="1920" height="1200" extended-state="0" />
+    <editor active="false" />
     <layout>
-      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.28221416" sideWeight="0.49920928" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.29166666" sideWeight="0.5276753" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32879046" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24944155" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.10226674" sideWeight="0.71778584" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.10226674" sideWeight="0.7083333" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.20570867" sideWeight="0.49973643" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.107538216" sideWeight="0.30255404" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.28221416" sideWeight="0.5007907" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.29166666" sideWeight="0.47232473" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.5611746" sideWeight="0.4996277" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32879046" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.23523623" sideWeight="0.49973643" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32971016" sideWeight="0.49973643" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32940108" sideWeight="0.49973643" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.18051577" sideWeight="0.49973643" order="5" side_tool="false" content_ui="tabs" />
@@ -430,7 +517,7 @@
     <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="false" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" value="in-progress: portfolio" />
+    <option name="LAST_COMMIT_MESSAGE" value="in-progress: portfolio styling" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -450,6 +537,7 @@
     <MESSAGE value="in-progress: designing and addition of logo and business card files" />
     <MESSAGE value="in-progress: ajax fixed to work only if section is empty, on scroll h2 detection initiated" />
     <MESSAGE value="in-progress: portfolio" />
+    <MESSAGE value="in-progress: portfolio styling" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -472,36 +560,6 @@
     </PATH>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/styles/bootstrap/dropdowns.less">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="93" column="2" selection-start="2106" selection-end="2200" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/scripts/main.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="22" column="38" selection-start="589" selection-end="589" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/styles/fonts.less">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="18" selection-start="107" selection-end="107" vertical-scroll-proportion="0.077892326" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/styles/bootstrap/reset.less">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="225" column="6" selection-start="4396" selection-end="4398" vertical-scroll-proportion="0.6494845" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/images/works/7.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/images/works/1.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/images/works/2.jpg">
       <provider selected="true" editor-type-id="images">
         <state />
@@ -536,28 +594,60 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="42" selection-start="840" selection-end="840" vertical-scroll-proportion="0.26948482">
-          <folding />
-        </state>
+        <state line="12" column="42" selection-start="840" selection-end="840" vertical-scroll-proportion="0.26948482" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/styles/main.css">
+    <entry file="file://$PROJECT_DIR$/jquery-photo-gallery/js/jquery.easing.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="305" column="52" selection-start="6356" selection-end="6356" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="9" column="44" selection-start="249" selection-end="249" vertical-scroll-proportion="-0.40583554" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/styles/site.less">
+    <entry file="file://$PROJECT_DIR$/jquery-photo-gallery/js/script.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="132" column="32" selection-start="3529" selection-end="3529" vertical-scroll-proportion="0.35185185">
+        <state line="9" column="54" selection-start="220" selection-end="220" vertical-scroll-proportion="0.20291777" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scripts/pretty-photo.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="25" column="27" selection-start="1485" selection-end="1485" vertical-scroll-proportion="0.4509284" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jquery-photo-gallery/js/jquery.prettyPhoto.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="43" selection-start="860" selection-end="860" vertical-scroll-proportion="0.20291777" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jquery-photo-gallery/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="23" column="75" selection-start="998" selection-end="998" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/portfolio.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="66" column="21" selection-start="4420" selection-end="4420" vertical-scroll-proportion="0.7892562">
+        <state line="8" column="20" selection-start="259" selection-end="259" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/styles/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="52" selection-start="52" selection-end="52" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="25" column="7" selection-start="769" selection-end="769" vertical-scroll-proportion="0.59274757">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/styles/site.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="26" column="32" selection-start="684" selection-end="684" vertical-scroll-proportion="0.023255814">
           <folding />
         </state>
       </provider>

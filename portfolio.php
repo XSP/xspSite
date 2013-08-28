@@ -1,3 +1,4 @@
+<script src="scripts/pretty-photo.js"></script>
 <div class="wrapper">
     <h2>Show off</h2>
 
