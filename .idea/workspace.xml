@@ -2,19 +2,39 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6ade5447-2480-4c38-8378-dad33964764e" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/arjun-qrcode.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/business-card-both.ai" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/business-card-both.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/loading.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/pavan-business-card-back.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/pavan-business-card-front.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/pavan-business-card.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/pavan-qrcode.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/arjun-qr.eps" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/pavan-qr code.eps" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scripts/pretty-photo.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/pavan-business-card.ai" afterPath="$PROJECT_DIR$/resources/pavan-business-card.ai" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.php" afterPath="$PROJECT_DIR$/index.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/works/a1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/works/org/a1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/works/a2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/works/org/a2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/works/a3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/works/org/a3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/works/a4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/works/org/a4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/works/a5.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/works/org/a5.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/works/b1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/works/org/b1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/works/b2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/works/org/b2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/works/b3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/works/org/b3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/works/c1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/works/org/c1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/works/c2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/works/org/c2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/works/d1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/works/org/d1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/works/d2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/works/org/d2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/works/e1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/works/org/e1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/works/e2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/works/org/e2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/works/e3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/works/org/e3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scripts/flux.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scripts/zepto.min.js" />
+      <change type="DELETED" beforePath="F:\XSP\xspSite\scripts\pretty-photo.js" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/styles/main.css" afterPath="$PROJECT_DIR$/styles/main.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/portfolio.php" afterPath="$PROJECT_DIR$/portfolio.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/styles/site.less" afterPath="$PROJECT_DIR$/styles/site.less" />
@@ -24,7 +44,7 @@
     <ignored path=".idea/workspace.xml" />
     <ignored path=".idea/" />
     <ignored path="jquery-photo-gallery/" />
-    <file path="/Dummy.txt" changelist="6ade5447-2480-4c38-8378-dad33964764e" time="1377663266384" ignored="false" />
+    <file path="/Dummy.txt" changelist="6ade5447-2480-4c38-8378-dad33964764e" time="1377925862723" ignored="false" />
     <file path="/index.php" changelist="6ade5447-2480-4c38-8378-dad33964764e" time="1377632223770" ignored="false" />
     <file path="/glo_jq.js" changelist="6ade5447-2480-4c38-8378-dad33964764e" time="1372611790136" ignored="false" />
     <file path="/a.dummy" changelist="6ade5447-2480-4c38-8378-dad33964764e" time="1376849145189" ignored="false" />
@@ -35,7 +55,7 @@
     <file path="F:/mobileApp prototype/index.html" changelist="6ade5447-2480-4c38-8378-dad33964764e" time="1373114110658" ignored="false" />
     <file path="/Dummy.xpath" changelist="6ade5447-2480-4c38-8378-dad33964764e" time="1373113996124" ignored="false" />
     <file path="/CSS Fragment (index.html:33).css" changelist="6ade5447-2480-4c38-8378-dad33964764e" time="1373113656160" ignored="false" />
-    <file path="/dummy.xml" changelist="6ade5447-2480-4c38-8378-dad33964764e" time="1376838149507" ignored="false" />
+    <file path="/dummy.xml" changelist="6ade5447-2480-4c38-8378-dad33964764e" time="1377810106032" ignored="false" />
     <file path="/universal.css" changelist="6ade5447-2480-4c38-8378-dad33964764e" time="1373448371688" ignored="false" />
     <file path="/custom.js" changelist="6ade5447-2480-4c38-8378-dad33964764e" time="1373447900634" ignored="false" />
     <file path="/main.less" changelist="6ade5447-2480-4c38-8378-dad33964764e" time="1376547613678" ignored="false" />
@@ -43,10 +63,10 @@
     <file path="/var-mixins.less" changelist="6ade5447-2480-4c38-8378-dad33964764e" time="1373575380158" ignored="false" />
     <file path="/variables.less" changelist="6ade5447-2480-4c38-8378-dad33964764e" time="1373576018327" ignored="false" />
     <file path="/reset.less" changelist="6ade5447-2480-4c38-8378-dad33964764e" time="1375130197983" ignored="false" />
-    <file path="/site.less" changelist="6ade5447-2480-4c38-8378-dad33964764e" time="1377632945092" ignored="false" />
+    <file path="/site.less" changelist="6ade5447-2480-4c38-8378-dad33964764e" time="1377927761574" ignored="false" />
     <file path="/main.css" changelist="6ade5447-2480-4c38-8378-dad33964764e" time="1375044987692" ignored="false" />
     <file path="/mixins.less" changelist="6ade5447-2480-4c38-8378-dad33964764e" time="1375466707408" ignored="false" />
-    <file path="/main.js" changelist="6ade5447-2480-4c38-8378-dad33964764e" time="1375474753095" ignored="false" />
+    <file path="/main.js" changelist="6ade5447-2480-4c38-8378-dad33964764e" time="1377810135184" ignored="false" />
     <file path="/navigator.js" changelist="6ade5447-2480-4c38-8378-dad33964764e" time="1375128405449" ignored="false" />
     <file path="/grid.less" changelist="6ade5447-2480-4c38-8378-dad33964764e" time="1373792308261" ignored="false" />
     <file path="/contactus.php" changelist="6ade5447-2480-4c38-8378-dad33964764e" time="1373830698204" ignored="false" />
@@ -59,7 +79,9 @@
     <file path="$PROJECT_DIR$/styles/bootstrap/dropdowns.less" changelist="6ade5447-2480-4c38-8378-dad33964764e" time="1376494202371" ignored="false" />
     <file path="$PROJECT_DIR$/styles/bootstrap/mixins.less" changelist="6ade5447-2480-4c38-8378-dad33964764e" time="1376494202371" ignored="false" />
     <file path="$PROJECT_DIR$/styles/bootstrap/reset.less" changelist="6ade5447-2480-4c38-8378-dad33964764e" time="1376494202371" ignored="false" />
-    <file path="/portfolio.php" changelist="6ade5447-2480-4c38-8378-dad33964764e" time="1376940912931" ignored="false" />
+    <file path="/portfolio.php" changelist="6ade5447-2480-4c38-8378-dad33964764e" time="1377932357379" ignored="false" />
+    <file path="$PROJECT_DIR$/../hometelOne/scripts/dom.js" changelist="6ade5447-2480-4c38-8378-dad33964764e" time="1377687905036" ignored="false" />
+    <file path="/dom.js" changelist="6ade5447-2480-4c38-8378-dad33964764e" time="1377687816059" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -78,22 +100,22 @@
     <favorites_list name="xspSite" />
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.47386965">
+    <splitter split-orientation="horizontal" split-proportion="0.15208456">
       <split-first>
         <leaf>
-          <file leaf-file-name="portfolio.php" pinned="false" current="false" current-in-tab="false">
+          <file leaf-file-name="portfolio.php" pinned="false" current="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/portfolio.php">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="8" column="20" selection-start="259" selection-end="259" vertical-scroll-proportion="0.0">
+                <state line="35" column="40" selection-start="1290" selection-end="1290" vertical-scroll-proportion="0.34517765">
                   <folding />
                 </state>
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/jquery-photo-gallery/index.html">
+          <file leaf-file-name="demo.html" pinned="false" current="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/Flux-Slider/demo.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="23" column="75" selection-start="998" selection-end="998" vertical-scroll-proportion="0.0">
+                <state line="11" column="17" selection-start="442" selection-end="534" vertical-scroll-proportion="0.0">
                   <folding />
                 </state>
               </provider>
@@ -108,10 +130,19 @@
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="index.php" pinned="false" current="false" current-in-tab="true">
+          <file leaf-file-name="index.php" pinned="false" current="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/index.php">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="25" column="7" selection-start="769" selection-end="769" vertical-scroll-proportion="0.59274757">
+                <state line="31" column="59" selection-start="950" selection-end="950" vertical-scroll-proportion="0.0">
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="home.php" pinned="false" current="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/home.php">
+              <provider selected="true" editor-type-id="text-editor">
+                <state line="21" column="29" selection-start="1151" selection-end="1151" vertical-scroll-proportion="0.0">
                   <folding />
                 </state>
               </provider>
@@ -130,11 +161,33 @@
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="site.less" pinned="false" current="true" current-in-tab="true">
+          <file leaf-file-name="site.less" pinned="false" current="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/styles/site.less">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="26" column="32" selection-start="684" selection-end="684" vertical-scroll-proportion="0.023255814">
+                <state line="101" column="26" selection-start="2652" selection-end="2652" vertical-scroll-proportion="-4.82">
                   <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="main.js" pinned="false" current="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/scripts/main.js">
+              <provider selected="true" editor-type-id="text-editor">
+                <state line="11" column="27" selection-start="277" selection-end="277" vertical-scroll-proportion="0.0">
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="flux.min.js" pinned="false" current="true" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/scripts/flux.min.js">
+              <provider selected="true" editor-type-id="text-editor">
+                <state line="38" column="83" selection-start="14294" selection-end="14294" vertical-scroll-proportion="0.5362776">
+                  <folding>
+                    <marker date="1377932560691" expanded="true" signature="1292:1310" placeholder="..." />
+                    <marker date="1377932560691" expanded="true" signature="1753:1778" placeholder="..." />
+                    <marker date="1377932560691" expanded="true" signature="1862:1887" placeholder="..." />
+                  </folding>
                 </state>
               </provider>
             </entry>
@@ -161,7 +214,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/overview.php" />
         <option value="$PROJECT_DIR$/process.php" />
         <option value="$PROJECT_DIR$/styles/fonts.less" />
         <option value="$PROJECT_DIR$/styles/main.css" />
@@ -171,18 +223,21 @@
         <option value="$PROJECT_DIR$/styles/bootstrap/reset.less" />
         <option value="$PROJECT_DIR$/scripts/navigator.js" />
         <option value="$PROJECT_DIR$/styles/bootstrap/mixins.less" />
-        <option value="$PROJECT_DIR$/scripts/main.js" />
         <option value="$PROJECT_DIR$/styles/main.less" />
-        <option value="$PROJECT_DIR$/portfolio.php" />
         <option value="$PROJECT_DIR$/jquery-photo-gallery/index.html" />
+        <option value="$PROJECT_DIR$/scripts/main.js" />
         <option value="$PROJECT_DIR$/index.php" />
         <option value="$PROJECT_DIR$/styles/site.less" />
+        <option value="$PROJECT_DIR$/portfolio.php" />
+        <option value="$PROJECT_DIR$/scripts/flux.min.js" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="width" value="1920" />
-    <option name="height" value="1200" />
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1176" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -279,38 +334,6 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="xspSite" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="xspSite" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="jquery-photo-gallery" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="xspSite" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="xspSite" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="jquery-photo-gallery" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="images" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
       <pane id="Scope" />
@@ -322,7 +345,7 @@
     <property name="recentsLimit" value="5" />
     <property name="options.lastSelected" value="vcs.Git" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/jquery-photo-gallery" />
-    <property name="FullScreen" value="true" />
+    <property name="FullScreen" value="false" />
     <property name="GoToClass.includeJavaFiles" value="false" />
     <property name="options.searchVisible" value="true" />
     <property name="options.splitter.details.proportions" value="0.2" />
@@ -340,6 +363,9 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\XSP\xspSite\scripts" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
       <recent name="F:\XSP\xspSite\scripts" />
     </key>
   </component>
@@ -429,7 +455,11 @@
       <created>1376854578585</created>
       <updated>1376854578585</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="in-progress: business card added">
+      <created>1377664685688</created>
+      <updated>1377664685688</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TodoView" selected-index="0">
@@ -453,16 +483,16 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1920" height="1200" extended-state="0" />
+    <frame x="-8" y="-8" width="1936" height="1176" extended-state="6" />
     <editor active="false" />
     <layout>
-      <window_info id="Changes" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.29166666" sideWeight="0.5276753" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.31434184" sideWeight="0.5271481" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32879046" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24944155" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.10226674" sideWeight="0.7083333" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.10226674" sideWeight="0.68565816" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.20570867" sideWeight="0.49973643" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.107538216" sideWeight="0.30255404" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.29166666" sideWeight="0.47232473" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.31434184" sideWeight="0.47285187" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.5611746" sideWeight="0.4996277" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32879046" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -517,7 +547,7 @@
     <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="false" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" value="in-progress: portfolio styling" />
+    <option name="LAST_COMMIT_MESSAGE" value="in-progress: business card added" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -538,6 +568,7 @@
     <MESSAGE value="in-progress: ajax fixed to work only if section is empty, on scroll h2 detection initiated" />
     <MESSAGE value="in-progress: portfolio" />
     <MESSAGE value="in-progress: portfolio styling" />
+    <MESSAGE value="in-progress: business card added" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -560,21 +591,6 @@
     </PATH>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/images/works/2.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/images/works/3.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/images/works/6.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/images/works/5.jpg">
       <provider selected="true" editor-type-id="images">
         <state />
@@ -597,36 +613,30 @@
         <state line="12" column="42" selection-start="840" selection-end="840" vertical-scroll-proportion="0.26948482" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/jquery-photo-gallery/js/jquery.easing.js">
+    <entry file="file://$PROJECT_DIR$/scripts/main.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="44" selection-start="249" selection-end="249" vertical-scroll-proportion="-0.40583554" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/jquery-photo-gallery/js/script.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="54" selection-start="220" selection-end="220" vertical-scroll-proportion="0.20291777" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/scripts/pretty-photo.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="25" column="27" selection-start="1485" selection-end="1485" vertical-scroll-proportion="0.4509284" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/jquery-photo-gallery/js/jquery.prettyPhoto.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="43" selection-start="860" selection-end="860" vertical-scroll-proportion="0.20291777" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/jquery-photo-gallery/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="23" column="75" selection-start="998" selection-end="998" vertical-scroll-proportion="0.0">
+        <state line="11" column="27" selection-start="277" selection-end="277" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/portfolio.php">
+    <entry file="file://$PROJECT_DIR$/home.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="20" selection-start="259" selection-end="259" vertical-scroll-proportion="0.0">
+        <state line="21" column="29" selection-start="1151" selection-end="1151" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Flux-Slider/demo.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="17" selection-start="442" selection-end="534" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="31" column="59" selection-start="950" selection-end="950" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
@@ -638,17 +648,35 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.php">
+    <entry file="file://$PROJECT_DIR$/styles/site.less">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="25" column="7" selection-start="769" selection-end="769" vertical-scroll-proportion="0.59274757">
+        <state line="101" column="26" selection-start="2652" selection-end="2652" vertical-scroll-proportion="-4.82">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/styles/site.less">
+    <entry file="file://$PROJECT_DIR$/Flux-Slider/js/zepto/zepto.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="26" column="32" selection-start="684" selection-end="684" vertical-scroll-proportion="0.023255814">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/portfolio.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="35" column="40" selection-start="1290" selection-end="1290" vertical-scroll-proportion="0.34517765">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scripts/flux.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="38" column="83" selection-start="14294" selection-end="14294" vertical-scroll-proportion="0.5362776">
+          <folding>
+            <marker date="1377932560691" expanded="true" signature="1292:1310" placeholder="..." />
+            <marker date="1377932560691" expanded="true" signature="1753:1778" placeholder="..." />
+            <marker date="1377932560691" expanded="true" signature="1862:1887" placeholder="..." />
+          </folding>
         </state>
       </provider>
     </entry>
