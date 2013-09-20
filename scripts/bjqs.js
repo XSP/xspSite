@@ -23,13 +23,13 @@
         var defaults        = {
 
             // w + h to enforce consistency
-            width           : 700,
-            height          : 300,
+            width           : 1600,
+            height          : 580,
 
             // transition valuess
             animtype        : 'fade',
-            animduration    : 450,      // length of transition
-            animspeed       : 4000,     // delay between transitions
+            animduration    : 1000,      // length of transition
+            animspeed       : 8000,     // delay between transitions
             automatic       : true,     // enable/disable automatic slide rotation
 
             // control and marker configuration
@@ -315,9 +315,9 @@
         };
 
         var resize_complete = (function () {
-            
+
             var timers = {};
-            
+
             return function (callback, ms, uniqueId) {
                 if (!uniqueId) {
                     uniqueId = "Don't call this twice without a uniqueId";

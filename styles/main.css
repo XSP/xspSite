@@ -1480,7 +1480,6 @@ html {
   color: #333333;
 }
 html body {
-  background: url(../images/light_wool.png);
   line-height: 1.3;
   width: 100%;
 }
@@ -1588,7 +1587,6 @@ html body .wrapper h3 {
   margin: 30px 0 20px;
 }
 html body .wrapper .home {
-  width: 80%;
   text-align: center;
   margin: 0 auto;
 }
@@ -1723,10 +1721,6 @@ html body .content > div {
   -o-transition: all 0.2s ease-in-out;
   transition: all 0.2s ease-in-out;
 }
-/* Demo CSS - You do not need this css in your own slider */
-body {
-  font-family: "Open Sans", helvetica, arial;
-}
 pre {
   font-family: "Source Code Pro", monospace;
   display: block;
@@ -1751,7 +1745,6 @@ pre + h2 {
   margin-top: 80px;
 }
 #container {
-  max-width: 620px;
   margin: 0 auto;
   padding-bottom: 80px;
 }
@@ -1771,16 +1764,75 @@ ul.bjqs-controls.v-centered li a:hover {
   color: #fff;
 }
 ol.bjqs-markers li a {
-  padding: 5px 10px;
+  padding: 3px;
+  font-size: 0px;
   background: #000;
-  color: #fff;
+  color: #000;
   margin: 5px;
   text-decoration: none;
+  -webkit-border-radius: 50%;
+  -moz-border-radius: 50%;
+  border-radius: 50%;
 }
 ol.bjqs-markers li.active-marker a,
 ol.bjqs-markers li a:hover {
   background: #999;
+  color: #999;
 }
 p.bjqs-caption {
   background: rgba(255, 255, 255, 0.5);
+}
+ul.bjqs {
+  position: relative;
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  overflow: hidden;
+  display: none;
+}
+li.bjqs-slide {
+  position: absolute;
+  display: none;
+}
+ul.bjqs-controls {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  z-index: 9999;
+}
+ul.bjqs-controls.v-centered li a {
+  position: absolute;
+}
+ul.bjqs-controls.v-centered li.bjqs-next a {
+  right: 0;
+}
+ul.bjqs-controls.v-centered li.bjqs-prev a {
+  left: 0;
+}
+ol.bjqs-markers {
+  bottom: 15px;
+  float: right;
+  list-style: none outside none;
+  margin: 0;
+  padding: 0;
+  position: absolute;
+  right: 15px;
+  width: auto;
+}
+ol.bjqs-markers.h-centered {
+  text-align: center;
+}
+ol.bjqs-markers li {
+  display: inline;
+}
+ol.bjqs-markers li a {
+  display: inline-block;
+}
+p.bjqs-caption {
+  display: block;
+  width: 96%;
+  margin: 0;
+  padding: 2%;
+  position: absolute;
+  bottom: 0;
 }
