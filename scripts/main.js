@@ -42,9 +42,9 @@ $(function () {
     });
 
 
-    $(window).scroll(function () {
+    /*$(window).scroll(function () {
         $(".wrapper div").one('inview', function () {
             console.log($(this).children('h2').html());
         });
-    });
+    });*/
 });

@@ -1575,20 +1575,18 @@ html body #loadingDiv img {
   left: 50%;
 }
 html body .wrapper {
-  margin: 0 auto;
   overflow: hidden;
-  padding: 100px 20px;
+  padding: 100px 0;
   position: relative;
+}
+html body .wrapper .width-res {
   width: 960px;
+  margin: 0 auto;
 }
 html body .wrapper h3 {
   color: #1ebcee;
   font-size: 24px;
   margin: 30px 0 20px;
-}
-html body .wrapper .home {
-  text-align: center;
-  margin: 0 auto;
 }
 html body .wrapper .webDev {
   background: url(../images/web.png) no-repeat;
@@ -1637,6 +1635,10 @@ html body .wrapper .gallery .e {
   box-shadow: 0 0 3px #333333;
   float: left;
   margin: 5px;
+}
+html body .wrapper .highlights {
+  background: #9bcfc2 url(../images/highlights-pat.png);
+  padding: 20px 0;
 }
 html body #header {
   position: fixed;
@@ -1746,7 +1748,6 @@ pre + h2 {
 }
 #container {
   margin: 0 auto;
-  padding-bottom: 80px;
 }
 #banner-fade,
 #banner-slide {
