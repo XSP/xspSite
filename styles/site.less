@@ -28,75 +28,6 @@ html {
                 top: 50%;
                 left: 50%;
             }
-
-            /*.movingBallG {
-                #gradient > .vertical(#ffffff, #cccccc);
-                position: absolute;
-                top: 50%;
-                left: 50%;
-                width: 10px;
-                height: 10px;
-                .border-radius(50%);
-                .animate(3s);
-                .animation-name(bounce_movingBallG);
-                .animation-iteration-count(infinite);
-                .animation-direction(linear);
-            }
-            @-moz-keyframes bounce_movingBallG {
-                0% {
-                    left: 40%;
-                }
-                50% {
-                    left: 60%;
-                }
-                100% {
-                    left: 40%;
-                }
-            }
-            @-webkit-keyframes bounce_movingBallG {
-                0% {
-                    left: 40%;
-                }
-                50% {
-                    left: 60%;
-                }
-                100% {
-                    left: 40%;
-                }
-            }
-            @-ms-keyframes bounce_movingBallG {
-                0% {
-                    left: 40%;
-                }
-                50% {
-                    left: 60%;
-                }
-                100% {
-                    left: 40%;
-                }
-            }
-            @-o-keyframes bounce_movingBallG {
-                0% {
-                    left: 40%;
-                }
-                50% {
-                    left: 60%;
-                }
-                100% {
-                    left: 40%;
-                }
-            }
-            @keyframes bounce_movingBallG {
-                0% {
-                    left: 40%;
-                }
-                50% {
-                    left: 60%;
-                }
-                100% {
-                    left: 40%;
-                }
-            }*/
         }
         .wrapper {
             overflow: hidden;
@@ -133,14 +64,14 @@ html {
                     clear: both;
                     width: 100%;
                     margin: 0 0 20px;
-                    float: left;
+                    .fl;
                     img {
                         width: 200px;
-                        float: left;
+                        .fl;
                     }
                     .cont {
                         width: 700px;
-                        float: right;
+                        .fr;
                     }
                     .border {
                         border-bottom: 1px solid #0088cc;
@@ -148,20 +79,32 @@ html {
                         margin: 20px 0;
                         clear: both;
                         height: 1px;
-                        float: left;
+                        .fl;
                     }
                 }
-                .a, .b, .c, .d, .e {
+                /*.a, .b, .c, .d, .e {
                     box-shadow: 0 0 3px #333333;
-                    float: left;
+                    .fl;
                     margin: 5px;
-                }
+                }*/
             }
             .highlights {
                 background: #9BCFC2 url(../images/highlights-pat.png);
                 padding: 20px 0;
-                .box-shadow(inset 0px 0px 10px rgba(0,0,0,0.1));
-
+                .box-shadow(inset 0px 0px 10px rgba(0,0,0,0.2));
+                color: #FFFFFF;
+                font-size: 17px;
+                overflow: hidden;
+                li{
+                    padding: 0 3%;
+                    width: 44%;
+                    .fl;
+                    img{
+                        float: left;
+                        height: 80px;
+                        padding: 20px 20px 0 0;
+                    }
+                }
             }
         }
         #header {
@@ -181,16 +124,16 @@ html {
                 width: 100%;
             }
             .logo {
-                float: left;
+                .fl;
                 clear: both;
                 margin: 20px 0 0 50px;
             }
             nav {
                 ul {
-                    float: right;
+                    .fr;
                     margin: 50px 0 0;
                     li {
-                        float: left;
+                        .fl;
                         color: #CCCCCC;
                         padding: 4px 50px;
                         font-size: 15px;
@@ -212,7 +155,7 @@ html {
             ul {
                 clear: both;
                 li {
-                    float: left;
+                    .fl;
                     margin: 0 65px 0 0;
                     width: 26%;
                 }
@@ -234,7 +177,7 @@ html {
             width: 100%;
             >div {
                 width: 100%;
-                float: left;
+                .fl;
             }
         }
     }

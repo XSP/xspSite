@@ -1,49 +1,55 @@
 <div class="wrapper">
     <div class="width-res">
-        <h2>What we offer</h2>
+        <h2>Solutions</h2>
 
-        <h3>Our approach</h3>
+        <p> Our characteristics and livelihood are simple, clear and fast. We bring into being intuitive designs and
+            apps, no matter whether it’s phone or desktop or other. We have been around the block and are ready to
+            handle whatever you throw at us. </p>
 
-        <p>We approach and execute every project with acute professionalism. We follow the under mentioned methodology
-            for proper preparation, development, and execution of a project to attain our goals. Here are the steps that
-            we utilize during the execution of any project.</p>
         <ul>
             <li>
-                <h4>Instantiate</h4>
+                <h4>Mobile apps</h4>
 
-                <p>In the beginning stage of chain of development, we work with you and your team to know the actual
-                    existence of concepts and abstraction of your objectives and goals. There is lot of communication
-                    between us and your team at this stage. Lets rare a share to bring those imaginations into the first
-                    stage of its existence.</p>
+                <p>Mobile apps are evolving every day and getting extensively popular as they always stay at your
+                    fingertips. We develop mobile apps with rich user experience. If you have one in mind that you want
+                    to create, drop in a line.</p>
             </li>
             <li>
-                <h4>Design</h4>
+                <h4>Cross Platform</h4>
 
-                <p>With the knowledge acquired through the instantiate stage we start the theoretical reviews and
-                    construct a plan with concept. At the end of this stage we will be having a clear picture on
-                    changing your imagination into real time, fully functional application.</p>
+                <p>As the increase in number of different devices, Cross Platform plays a major role in dealing with all
+                    the devices. We build hybrid application which runs seamlessly in mobile phones, tablets and
+                    desktop’s with consistent user experiences and mobility.</p>
             </li>
             <li>
-                <h4>Foster</h4>
+                <h4>Ecommerce and Mobile commerce</h4>
 
-                <p>This is where the attempt starts to build product in real. Your project goes from design phase till
-                    actually working module. In this stage all the plans and concepts from the earlier stage will turn
-                    into prototype.</p>
+                <p>Have a product and want to sell online, you are at the right place. We provide the solutions for
+                    Ecommerce and Mobile commerce by developing portals which fits in all the devices like mobile,
+                    tablets and desktops.
+                </p>
             </li>
             <li>
-                <h4>Launch</h4>
+                <h4>Web applications</h4>
 
-                <p>The prototype from foster goes into different stages of testing. Once we are very sure about the
-                    product is running very smooth with a error free environment, the product is set to launch. It is
-                    the feeling of lively and cheerful joy, as the great effort to endure comes to the condition of
-                    bearing fruit and the project comes alive.</p>
+                <p>We have a long history of creating complex web applications. There are huge benefits of having secure
+                    system online that address your problem and automate more processes.
+                </p>
             </li>
             <li>
-                <h4>Review</h4>
+                <h4>Responsive Web</h4>
 
-                <p>Don’t guess launch is the final stage of all. Once the product is launched, the application is
-                    reviewed and future updates are set in consideration with regard to growth and advancement. We like
-                    come into begin and accomplish each project with ascent to rising.</p>
+                <p>Today we have numerous devices with different screen size and resolution. We build websites which can
+                    fit into all screens and resolution with consistent user experience.
+                </p>
+            </li>
+            <li>
+                <h4>Cloud</h4>
+
+                <p> We develop and scale apps in cloud, launch new version without downtime. We use numerous tools to
+                    develop and push the code to the cloud. A build pack is run on each push and prepares your apps for
+                    deployment.
+                </p>
             </li>
         </ul>
     </div>

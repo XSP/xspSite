@@ -228,6 +228,21 @@ ul {
   -moz-box-sizing: border-box;
   box-sizing: border-box;
 }
+.fl {
+  float: left;
+}
+.fr {
+  float: right;
+}
+.cb {
+  clear: both;
+}
+.cl {
+  clear: left;
+}
+.cr {
+  clear: right;
+}
 form {
   margin: 0 0 20px;
 }
@@ -1499,75 +1514,6 @@ html body #loadingDiv {
   background: rgba(225, 225, 225, 0.7);
   position: fixed;
   z-index: 1;
-  /*.movingBallG {
-                #gradient > .vertical(#ffffff, #cccccc);
-                position: absolute;
-                top: 50%;
-                left: 50%;
-                width: 10px;
-                height: 10px;
-                .border-radius(50%);
-                .animate(3s);
-                .animation-name(bounce_movingBallG);
-                .animation-iteration-count(infinite);
-                .animation-direction(linear);
-            }
-            @-moz-keyframes bounce_movingBallG {
-                0% {
-                    left: 40%;
-                }
-                50% {
-                    left: 60%;
-                }
-                100% {
-                    left: 40%;
-                }
-            }
-            @-webkit-keyframes bounce_movingBallG {
-                0% {
-                    left: 40%;
-                }
-                50% {
-                    left: 60%;
-                }
-                100% {
-                    left: 40%;
-                }
-            }
-            @-ms-keyframes bounce_movingBallG {
-                0% {
-                    left: 40%;
-                }
-                50% {
-                    left: 60%;
-                }
-                100% {
-                    left: 40%;
-                }
-            }
-            @-o-keyframes bounce_movingBallG {
-                0% {
-                    left: 40%;
-                }
-                50% {
-                    left: 60%;
-                }
-                100% {
-                    left: 40%;
-                }
-            }
-            @keyframes bounce_movingBallG {
-                0% {
-                    left: 40%;
-                }
-                50% {
-                    left: 60%;
-                }
-                100% {
-                    left: 40%;
-                }
-            }*/
-
 }
 html body #loadingDiv img {
   position: absolute;
@@ -1604,6 +1550,12 @@ html body .wrapper > .width80 {
 }
 html body .wrapper .gallery {
   margin: 50px 0 0;
+  /*.a, .b, .c, .d, .e {
+                    box-shadow: 0 0 3px #333333;
+                    .fl;
+                    margin: 5px;
+                }*/
+
 }
 html body .wrapper .gallery .sec {
   clear: both;
@@ -1627,18 +1579,25 @@ html body .wrapper .gallery .sec .border {
   height: 1px;
   float: left;
 }
-html body .wrapper .gallery .a,
-html body .wrapper .gallery .b,
-html body .wrapper .gallery .c,
-html body .wrapper .gallery .d,
-html body .wrapper .gallery .e {
-  box-shadow: 0 0 3px #333333;
-  float: left;
-  margin: 5px;
-}
 html body .wrapper .highlights {
   background: #9bcfc2 url(../images/highlights-pat.png);
   padding: 20px 0;
+  -webkit-box-shadow: inset 0px 0px 10px rgba(0, 0, 0, 0.2);
+  -moz-box-shadow: inset 0px 0px 10px rgba(0, 0, 0, 0.2);
+  box-shadow: inset 0px 0px 10px rgba(0, 0, 0, 0.2);
+  color: #FFFFFF;
+  font-size: 17px;
+  overflow: hidden;
+}
+html body .wrapper .highlights li {
+  padding: 0 3%;
+  width: 44%;
+  float: left;
+}
+html body .wrapper .highlights li img {
+  float: left;
+  height: 80px;
+  padding: 20px 20px 0 0;
 }
 html body #header {
   position: fixed;
@@ -1746,25 +1705,26 @@ h2 {
 pre + h2 {
   margin-top: 80px;
 }
-#container {
+.container {
   margin: 0 auto;
 }
-#banner-fade,
-#banner-slide {
+.container .banner-fade,
+.container .banner-slide,
+.container .a {
   margin-bottom: 60px;
 }
-ul.bjqs-controls.v-centered li a {
+.container ul.bjqs-controls.v-centered li a {
   display: block;
   padding: 10px;
   background: #fff;
   color: #000;
   text-decoration: none;
 }
-ul.bjqs-controls.v-centered li a:hover {
+.container ul.bjqs-controls.v-centered li a:hover {
   background: #000;
   color: #fff;
 }
-ol.bjqs-markers li a {
+.container ol.bjqs-markers li a {
   padding: 3px;
   font-size: 0px;
   background: #000;
@@ -1775,15 +1735,15 @@ ol.bjqs-markers li a {
   -moz-border-radius: 50%;
   border-radius: 50%;
 }
-ol.bjqs-markers li.active-marker a,
-ol.bjqs-markers li a:hover {
+.container ol.bjqs-markers li.active-marker a,
+.container ol.bjqs-markers li a:hover {
   background: #999;
   color: #999;
 }
-p.bjqs-caption {
+.container p.bjqs-caption {
   background: rgba(255, 255, 255, 0.5);
 }
-ul.bjqs {
+.container ul.bjqs {
   position: relative;
   list-style: none;
   padding: 0;
@@ -1791,26 +1751,26 @@ ul.bjqs {
   overflow: hidden;
   display: none;
 }
-li.bjqs-slide {
+.container li.bjqs-slide {
   position: absolute;
   display: none;
 }
-ul.bjqs-controls {
+.container ul.bjqs-controls {
   list-style: none;
   margin: 0;
   padding: 0;
   z-index: 9999;
 }
-ul.bjqs-controls.v-centered li a {
+.container ul.bjqs-controls.v-centered li a {
   position: absolute;
 }
-ul.bjqs-controls.v-centered li.bjqs-next a {
+.container ul.bjqs-controls.v-centered li.bjqs-next a {
   right: 0;
 }
-ul.bjqs-controls.v-centered li.bjqs-prev a {
+.container ul.bjqs-controls.v-centered li.bjqs-prev a {
   left: 0;
 }
-ol.bjqs-markers {
+.container ol.bjqs-markers {
   bottom: 15px;
   float: right;
   list-style: none outside none;
@@ -1820,16 +1780,16 @@ ol.bjqs-markers {
   right: 15px;
   width: auto;
 }
-ol.bjqs-markers.h-centered {
+.container ol.bjqs-markers.h-centered {
   text-align: center;
 }
-ol.bjqs-markers li {
+.container ol.bjqs-markers li {
   display: inline;
 }
-ol.bjqs-markers li a {
+.container ol.bjqs-markers li a {
   display: inline-block;
 }
-p.bjqs-caption {
+.container p.bjqs-caption {
   display: block;
   width: 96%;
   margin: 0;
