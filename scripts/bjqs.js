@@ -502,8 +502,8 @@
             // center the markers
             if (settings.centermarkers) {
                 $m_wrapper.addClass('h-centered');
-                var offset = (settings.width - $m_wrapper.width()) / 2;
-                $m_wrapper.css('left', offset);
+                //var offset = (settings.width - $m_wrapper.width()) / 2;
+                //$m_wrapper.css('left', offset);
             }
 
         };

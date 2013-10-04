@@ -15,7 +15,7 @@ $(function () {
 
     //onload homepage is loaded by default
     content.children("#home").load("home.php", function () {
-        $(this).children().attr("style", "min-height:" + (visibleHeight - 200) + "px;");
+        //$(this).children().attr("style", "min-height:" + (visibleHeight - 200) + "px;");
     });
 
     navSwitch = $("nav ul li");
@@ -32,7 +32,7 @@ $(function () {
 
         if ($("#" + loadPage).is(":empty")) {
             $("#" + loadPage).load(loadPage + ".php", function () {
-                $(".wrapper").attr("style", "min-height:" + visibleHeight + "px;");
+                //$(".wrapper").attr("style", "min-height:" + visibleHeight + "px;");
                 $(window).scrollTo($(this), 300);
             });
         }
@@ -43,8 +43,8 @@ $(function () {
 
 
     /*$(window).scroll(function () {
-        $(".wrapper div").one('inview', function () {
-            console.log($(this).children('h2').html());
-        });
-    });*/
+     $(".wrapper div").one('inview', function () {
+     console.log($(this).children('h2').html());
+     });
+     });*/
 });

@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6ade5447-2480-4c38-8378-dad33964764e" name="Default" comment="in-progress: home design">
+    <list default="true" id="6ade5447-2480-4c38-8378-dad33964764e" name="Default" comment="completed: hexagon design integration">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/brain.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/d-g.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/d-w.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/rocket.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/t-g.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/t-w.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/company.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/scripts/bjqs.js" afterPath="$PROJECT_DIR$/scripts/bjqs.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/styles/bjqs.less" afterPath="$PROJECT_DIR$/styles/bjqs.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/scripts/flux.min.js" afterPath="$PROJECT_DIR$/scripts/flux.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/enquiry.php" afterPath="$PROJECT_DIR$/enquiry.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/home.php" afterPath="$PROJECT_DIR$/home.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.php" afterPath="$PROJECT_DIR$/index.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/styles/main.css" afterPath="$PROJECT_DIR$/styles/main.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/styles/bootstrap/mixins.less" afterPath="$PROJECT_DIR$/styles/bootstrap/mixins.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/portfolio.php" afterPath="$PROJECT_DIR$/portfolio.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/scripts/main.js" afterPath="$PROJECT_DIR$/scripts/main.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/styles/site.less" afterPath="$PROJECT_DIR$/styles/site.less" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/solutions.php" afterPath="$PROJECT_DIR$/solutions.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
@@ -18,8 +25,8 @@
     <ignored path=".idea/" />
     <ignored path="jquery-photo-gallery/" />
     <ignored path="jcobb-basic-jquery-slider-8ffe118/" />
-    <file path="/Dummy.txt" changelist="6ade5447-2480-4c38-8378-dad33964764e" time="1380746398905" ignored="false" />
-    <file path="/index.php" changelist="6ade5447-2480-4c38-8378-dad33964764e" time="1380714157878" ignored="false" />
+    <file path="/Dummy.txt" changelist="6ade5447-2480-4c38-8378-dad33964764e" time="1380921239189" ignored="false" />
+    <file path="/index.php" changelist="6ade5447-2480-4c38-8378-dad33964764e" time="1380839602376" ignored="false" />
     <file path="/glo_jq.js" changelist="6ade5447-2480-4c38-8378-dad33964764e" time="1372611790136" ignored="false" />
     <file path="/a.dummy" changelist="6ade5447-2480-4c38-8378-dad33964764e" time="1380714249174" ignored="false" />
     <file path="/Dummy.regexp" changelist="6ade5447-2480-4c38-8378-dad33964764e" time="1373113996124" ignored="false" />
@@ -29,7 +36,7 @@
     <file path="F:/mobileApp prototype/index.html" changelist="6ade5447-2480-4c38-8378-dad33964764e" time="1373114110658" ignored="false" />
     <file path="/Dummy.xpath" changelist="6ade5447-2480-4c38-8378-dad33964764e" time="1373113996124" ignored="false" />
     <file path="/CSS Fragment (index.html:33).css" changelist="6ade5447-2480-4c38-8378-dad33964764e" time="1373113656160" ignored="false" />
-    <file path="/dummy.xml" changelist="6ade5447-2480-4c38-8378-dad33964764e" time="1380383104869" ignored="false" />
+    <file path="/dummy.xml" changelist="6ade5447-2480-4c38-8378-dad33964764e" time="1380920860786" ignored="false" />
     <file path="/universal.css" changelist="6ade5447-2480-4c38-8378-dad33964764e" time="1373448371688" ignored="false" />
     <file path="/custom.js" changelist="6ade5447-2480-4c38-8378-dad33964764e" time="1373447900634" ignored="false" />
     <file path="/main.less" changelist="6ade5447-2480-4c38-8378-dad33964764e" time="1379056522424" ignored="false" />
@@ -37,25 +44,26 @@
     <file path="/var-mixins.less" changelist="6ade5447-2480-4c38-8378-dad33964764e" time="1373575380158" ignored="false" />
     <file path="/variables.less" changelist="6ade5447-2480-4c38-8378-dad33964764e" time="1373576018327" ignored="false" />
     <file path="/reset.less" changelist="6ade5447-2480-4c38-8378-dad33964764e" time="1375130197983" ignored="false" />
-    <file path="/site.less" changelist="6ade5447-2480-4c38-8378-dad33964764e" time="1380384361949" ignored="false" />
+    <file path="/site.less" changelist="6ade5447-2480-4c38-8378-dad33964764e" time="1380920561759" ignored="false" />
     <file path="/main.css" changelist="6ade5447-2480-4c38-8378-dad33964764e" time="1380215274693" ignored="false" />
     <file path="/mixins.less" changelist="6ade5447-2480-4c38-8378-dad33964764e" time="1380383567192" ignored="false" />
     <file path="/main.js" changelist="6ade5447-2480-4c38-8378-dad33964764e" time="1377810135184" ignored="false" />
     <file path="/navigator.js" changelist="6ade5447-2480-4c38-8378-dad33964764e" time="1375128405449" ignored="false" />
     <file path="/grid.less" changelist="6ade5447-2480-4c38-8378-dad33964764e" time="1373792308261" ignored="false" />
     <file path="/contactus.php" changelist="6ade5447-2480-4c38-8378-dad33964764e" time="1373830698204" ignored="false" />
-    <file path="/solutions.php" changelist="6ade5447-2480-4c38-8378-dad33964764e" time="1380665265065" ignored="false" />
+    <file path="/solutions.php" changelist="6ade5447-2480-4c38-8378-dad33964764e" time="1380920346857" ignored="false" />
     <file path="/fonts.less" changelist="6ade5447-2480-4c38-8378-dad33964764e" time="1374703713991" ignored="false" />
-    <file path="/home.php" changelist="6ade5447-2480-4c38-8378-dad33964764e" time="1380714831374" ignored="false" />
+    <file path="/home.php" changelist="6ade5447-2480-4c38-8378-dad33964764e" time="1380894730157" ignored="false" />
     <file path="/a.html" changelist="6ade5447-2480-4c38-8378-dad33964764e" time="1374699314005" ignored="false" />
     <file path="/a.xml" changelist="6ade5447-2480-4c38-8378-dad33964764e" time="1374699321235" ignored="false" />
-    <file path="/enquiry.php" changelist="6ade5447-2480-4c38-8378-dad33964764e" time="1380221872036" ignored="false" />
+    <file path="/enquiry.php" changelist="6ade5447-2480-4c38-8378-dad33964764e" time="1380920860786" ignored="false" />
     <file path="/portfolio.php" changelist="6ade5447-2480-4c38-8378-dad33964764e" time="1380747037861" ignored="false" />
     <file path="$PROJECT_DIR$/../hometelOne/scripts/dom.js" changelist="6ade5447-2480-4c38-8378-dad33964764e" time="1377687905036" ignored="false" />
     <file path="/dom.js" changelist="6ade5447-2480-4c38-8378-dad33964764e" time="1377687816059" ignored="false" />
     <file path="/test.php" changelist="6ade5447-2480-4c38-8378-dad33964764e" time="1378965842507" ignored="false" />
     <file path="/bjqs.js" changelist="6ade5447-2480-4c38-8378-dad33964764e" time="1379655768962" ignored="false" />
     <file path="/bjqs.less" changelist="6ade5447-2480-4c38-8378-dad33964764e" time="1380745979635" ignored="false" />
+    <file path="/company.php" changelist="6ade5447-2480-4c38-8378-dad33964764e" time="1380917796176" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -77,19 +85,19 @@
     <splitter split-orientation="horizontal" split-proportion="0.4928835">
       <split-first>
         <leaf>
-          <file leaf-file-name="portfolio.php" pinned="false" current="true" current-in-tab="true">
+          <file leaf-file-name="portfolio.php" pinned="false" current="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/portfolio.php">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="16" column="89" selection-start="691" selection-end="691" vertical-scroll-proportion="0.34300125">
+                <state line="1" column="30" selection-start="25" selection-end="49" vertical-scroll-proportion="0.0">
                   <folding />
                 </state>
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="enquiry.php" pinned="false" current="false" current-in-tab="false">
+          <file leaf-file-name="enquiry.php" pinned="false" current="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/enquiry.php">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="0" column="0" selection-start="0" selection-end="409" vertical-scroll-proportion="-0.0">
+                <state line="42" column="25" selection-start="1693" selection-end="1693" vertical-scroll-proportion="0.8992443">
                   <folding />
                 </state>
               </provider>
@@ -98,7 +106,7 @@
           <file leaf-file-name="solutions.php" pinned="false" current="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/solutions.php">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="2" column="10" selection-start="60" selection-end="60" vertical-scroll-proportion="-1.3076923">
+                <state line="1" column="4" selection-start="26" selection-end="119" vertical-scroll-proportion="-0.65384614">
                   <folding />
                 </state>
               </provider>
@@ -107,7 +115,7 @@
           <file leaf-file-name="home.php" pinned="false" current="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/home.php">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="30" column="43" selection-start="1214" selection-end="1214" vertical-scroll-proportion="-19.615385">
+                <state line="14" column="69" selection-start="590" selection-end="590" vertical-scroll-proportion="-9.153846">
                   <folding />
                 </state>
               </provider>
@@ -116,7 +124,16 @@
           <file leaf-file-name="index.php" pinned="false" current="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/index.php">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="22" column="80" selection-start="729" selection-end="729" vertical-scroll-proportion="-14.384615">
+                <state line="18" column="51" selection-start="666" selection-end="666" vertical-scroll-proportion="0.0">
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="company.php" pinned="false" current="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/company.php">
+              <provider selected="true" editor-type-id="text-editor">
+                <state line="1" column="4" selection-start="26" selection-end="117" vertical-scroll-proportion="-0.65384614">
                   <folding />
                 </state>
               </provider>
@@ -129,7 +146,7 @@
           <file leaf-file-name="main.js" pinned="false" current="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/scripts/main.js">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="21" column="43" selection-start="555" selection-end="555" vertical-scroll-proportion="-13.72">
+                <state line="35" column="49" selection-start="1040" selection-end="1040" vertical-scroll-proportion="-22.8">
                   <folding />
                 </state>
               </provider>
@@ -138,16 +155,16 @@
           <file leaf-file-name="bjqs.js" pinned="false" current="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/scripts/bjqs.js">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="520" column="43" selection-start="17973" selection-end="17974" vertical-scroll-proportion="-145.04">
+                <state line="504" column="18" selection-start="17524" selection-end="17524" vertical-scroll-proportion="-23.36">
                   <folding />
                 </state>
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="bjqs.less" pinned="false" current="false" current-in-tab="true">
+          <file leaf-file-name="bjqs.less" pinned="false" current="true" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/styles/bjqs.less">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="105" column="38" selection-start="2023" selection-end="2023" vertical-scroll-proportion="0.37728938">
+                <state line="117" column="6" selection-start="2200" selection-end="2200" vertical-scroll-proportion="0.8085366">
                   <folding />
                 </state>
               </provider>
@@ -156,7 +173,7 @@
           <file leaf-file-name="site.less" pinned="false" current="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/styles/site.less">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="84" column="18" selection-start="2307" selection-end="2456" vertical-scroll-proportion="-10.56">
+                <state line="71" column="38" selection-start="1997" selection-end="1997" vertical-scroll-proportion="-14.0">
                   <folding />
                 </state>
               </provider>
@@ -165,7 +182,7 @@
           <file leaf-file-name="mixins.less" pinned="false" current="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/styles/bootstrap/mixins.less">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="733" column="17" selection-start="24382" selection-end="24382" vertical-scroll-proportion="0.0">
+                <state line="724" column="33" selection-start="24312" selection-end="24312" vertical-scroll-proportion="0.0">
                   <folding />
                 </state>
               </provider>
@@ -202,21 +219,21 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/scripts/navigator.js" />
         <option value="$PROJECT_DIR$/jquery-photo-gallery/index.html" />
         <option value="$PROJECT_DIR$/test.php" />
         <option value="$PROJECT_DIR$/styles/main.less" />
-        <option value="$PROJECT_DIR$/scripts/bjqs.js" />
         <option value="$PROJECT_DIR$/styles/main.css" />
-        <option value="$PROJECT_DIR$/scripts/main.js" />
         <option value="$PROJECT_DIR$/styles/bootstrap/mixins.less" />
-        <option value="$PROJECT_DIR$/solutions.php" />
-        <option value="$PROJECT_DIR$/enquiry.php" />
         <option value="$PROJECT_DIR$/scripts/flux.min.js" />
-        <option value="$PROJECT_DIR$/home.php" />
-        <option value="$PROJECT_DIR$/index.php" />
-        <option value="$PROJECT_DIR$/styles/site.less" />
         <option value="$PROJECT_DIR$/portfolio.php" />
+        <option value="$PROJECT_DIR$/index.php" />
+        <option value="$PROJECT_DIR$/home.php" />
+        <option value="$PROJECT_DIR$/scripts/main.js" />
+        <option value="$PROJECT_DIR$/company.php" />
+        <option value="$PROJECT_DIR$/solutions.php" />
+        <option value="$PROJECT_DIR$/styles/site.less" />
+        <option value="$PROJECT_DIR$/enquiry.php" />
+        <option value="$PROJECT_DIR$/scripts/bjqs.js" />
         <option value="$PROJECT_DIR$/styles/bjqs.less" />
       </list>
     </option>
@@ -328,13 +345,13 @@
   <component name="PropertiesComponent">
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="recentsLimit" value="5" />
     <property name="options.lastSelected" value="preferences.keymap" />
+    <property name="recentsLimit" value="5" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/jquery-photo-gallery" />
     <property name="FullScreen" value="true" />
-    <property name="GoToClass.includeJavaFiles" value="false" />
-    <property name="options.searchVisible" value="true" />
     <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
+    <property name="GoToClass.includeJavaFiles" value="false" />
   </component>
   <component name="PublishConfig">
     <servers>
@@ -503,22 +520,22 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1920" height="1200" extended-state="0" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
-      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.23369566" sideWeight="0.5139694" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.23369566" sideWeight="0.5139694" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32699275" sideWeight="0.49973643" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.23460145" sideWeight="0.49973643" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.07590933" sideWeight="0.7663044" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.0722193" sideWeight="0.76539856" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.09594096" sideWeight="0.7663044" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.20570867" sideWeight="0.49973643" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.107538216" sideWeight="0.30255404" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.23460145" sideWeight="0.5002636" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.23369566" sideWeight="0.48603058" order="10" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.5611746" sideWeight="0.4996277" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32879046" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32879046" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32880434" sideWeight="0.49973643" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.23460145" sideWeight="0.49973643" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32880434" sideWeight="0.49973643" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.18051577" sideWeight="0.49973643" order="5" side_tool="false" content_ui="tabs" />
@@ -566,7 +583,7 @@
     <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="false" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" value="in-progress: home design" />
+    <option name="LAST_COMMIT_MESSAGE" value="completed: hexagon design integration" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -593,6 +610,7 @@
     <MESSAGE value="in-progress: home page banner" />
     <MESSAGE value="completed: home banner" />
     <MESSAGE value="in-progress: home design" />
+    <MESSAGE value="completed: hexagon design integration" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -615,60 +633,6 @@
     </PATH>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/styles/main.less">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="36" selection-start="230" selection-end="230" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/styles/bootstrap/variables.less">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-1.6431227" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/styles/bootstrap/mixins.less">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="733" column="17" selection-start="24382" selection-end="24382" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/scripts/main.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="21" column="43" selection-start="555" selection-end="555" vertical-scroll-proportion="-13.72">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/solutions.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="10" selection-start="60" selection-end="60" vertical-scroll-proportion="-1.3076923">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/enquiry.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="409" vertical-scroll-proportion="-0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$APPLICATION_HOME_DIR$/lib/webstorm.jar!/resources/html5-schema/embed.rnc">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="22" selection-start="427" selection-end="427" vertical-scroll-proportion="0.26984128">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="22" column="80" selection-start="729" selection-end="729" vertical-scroll-proportion="-14.384615">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$APPLICATION_HOME_DIR$/lib/webstorm.jar!/resources/html5-schema/applications.rnc">
       <provider selected="true" editor-type-id="text-editor">
         <state line="219" column="21" selection-start="4717" selection-end="4717" vertical-scroll-proportion="0.33333334">
@@ -678,49 +642,101 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/styles/main.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="1608" column="64" selection-start="39091" selection-end="39091" vertical-scroll-proportion="0.5288092">
-          <folding />
-        </state>
+        <state line="1608" column="64" selection-start="39091" selection-end="39091" vertical-scroll-proportion="0.5288092" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/scripts/flux.min.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="20" column="146" selection-start="3010" selection-end="3033" vertical-scroll-proportion="0.27419356">
+        <state line="20" column="146" selection-start="3010" selection-end="3033" vertical-scroll-proportion="0.27419356" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/portfolio.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1" column="30" selection-start="25" selection-end="49" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="18" column="51" selection-start="666" selection-end="666" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/styles/bootstrap/variables.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="35" column="1" selection-start="785" selection-end="785" vertical-scroll-proportion="0.3330241">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/styles/main.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="36" selection-start="230" selection-end="230" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/styles/bootstrap/mixins.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="724" column="33" selection-start="24312" selection-end="24312" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/home.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="30" column="43" selection-start="1214" selection-end="1214" vertical-scroll-proportion="-19.615385">
+        <state line="14" column="69" selection-start="590" selection-end="590" vertical-scroll-proportion="-9.153846">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scripts/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="35" column="49" selection-start="1040" selection-end="1040" vertical-scroll-proportion="-22.8">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/company.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1" column="4" selection-start="26" selection-end="117" vertical-scroll-proportion="-0.65384614">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/styles/site.less">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="84" column="18" selection-start="2307" selection-end="2456" vertical-scroll-proportion="-10.56">
+        <state line="71" column="38" selection-start="1997" selection-end="1997" vertical-scroll-proportion="-14.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/solutions.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1" column="4" selection-start="26" selection-end="119" vertical-scroll-proportion="-0.65384614">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/enquiry.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="42" column="25" selection-start="1693" selection-end="1693" vertical-scroll-proportion="0.8992443">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/scripts/bjqs.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="520" column="43" selection-start="17973" selection-end="17974" vertical-scroll-proportion="-145.04">
+        <state line="504" column="18" selection-start="17524" selection-end="17524" vertical-scroll-proportion="-23.36">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/styles/bjqs.less">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="105" column="38" selection-start="2023" selection-end="2023" vertical-scroll-proportion="0.37728938">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/portfolio.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="89" selection-start="691" selection-end="691" vertical-scroll-proportion="0.34300125">
+        <state line="117" column="6" selection-start="2200" selection-end="2200" vertical-scroll-proportion="0.8085366">
           <folding />
         </state>
       </provider>

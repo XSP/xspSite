@@ -15,8 +15,8 @@
     <nav>
         <ul>
             <li class="selected">Home</li>
+            <li>Company</li>
             <li>Solutions</li>
-            <li>Portfolio</li>
             <li>Enquiry</li>
         </ul>
     </nav>
@@ -27,8 +27,8 @@
         <img src="images/loading.gif" alt="Loading"/>
     </div>
     <div id="home"></div>
+    <div id="company"></div>
     <div id="solutions"></div>
-    <div id="portfolio"></div>
     <div id="enquiry"></div>
 </div>
 <a id="back-to-top" class="main-top-button" href="#top" style="display: inline;">

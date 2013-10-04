@@ -1497,6 +1497,7 @@ html {
 html body {
   line-height: 1.3;
   width: 100%;
+  background: #eee;
 }
 html body h2 {
   font-size: 50px;
@@ -1521,12 +1522,8 @@ html body #loadingDiv img {
   left: 50%;
 }
 html body .wrapper {
-  overflow: hidden;
-  padding: 100px 0;
   position: relative;
-}
-html body .wrapper .width-res {
-  width: 960px;
+  width: 1000px;
   margin: 0 auto;
 }
 html body .wrapper h3 {
@@ -1547,6 +1544,67 @@ html body .wrapper canvas#stripes {
 html body .wrapper > .width80 {
   width: 80%;
   margin: 0 auto;
+}
+html body .wrapper .d-w {
+  background: url(../images/d-w.png) no-repeat bottom;
+  height: 162px;
+  width: 100%;
+  margin: 0 0 50px;
+}
+html body .wrapper .d-g {
+  background: url(../images/d-g.png) no-repeat bottom;
+  height: 162px;
+  width: 100%;
+  margin: 0 0 50px;
+}
+html body .wrapper .t-g {
+  background: url(../images/t-g.png) no-repeat top;
+  height: 162px;
+  width: 100%;
+  margin: -130px 0 0;
+}
+html body .wrapper .t-w {
+  background: url(../images/t-w.png) no-repeat top;
+  height: 162px;
+  width: 100%;
+  margin: -130px 0 0;
+}
+html body .wrapper .above {
+  position: relative;
+  z-index: 2;
+}
+html body .wrapper .below {
+  position: relative;
+  z-index: 1;
+}
+html body .wrapper .home {
+  margin: 92px 0 0;
+}
+html body .wrapper .home .container {
+  background: #ffffff;
+  -webkit-box-shadow: 0 0 2px #eeeeee;
+  -moz-box-shadow: 0 0 2px #eeeeee;
+  box-shadow: 0 0 2px #eeeeee;
+}
+html body .wrapper .company .container {
+  background: #ffffff;
+  padding: 10px 20px;
+}
+html body .wrapper .solutions .container {
+  background: #ffffff;
+  padding: 10px 20px;
+  overflow: hidden;
+}
+html body .wrapper .solutions .main {
+  float: left;
+  font-size: 20px;
+  line-height: 32px;
+  padding: 5px;
+  width: 25%;
+}
+html body .wrapper .solutions .detail {
+  float: right;
+  width: 65%;
 }
 html body .wrapper .gallery {
   margin: 50px 0 0;
@@ -1580,11 +1638,8 @@ html body .wrapper .gallery .sec .border {
   float: left;
 }
 html body .wrapper .highlights {
-  background: #9bcfc2 url(../images/highlights-pat.png);
+  background: #9ACEC1;
   padding: 20px 0;
-  -webkit-box-shadow: inset 0px 0px 10px rgba(0, 0, 0, 0.2);
-  -moz-box-shadow: inset 0px 0px 10px rgba(0, 0, 0, 0.2);
-  box-shadow: inset 0px 0px 10px rgba(0, 0, 0, 0.2);
   color: #FFFFFF;
   font-size: 17px;
   overflow: hidden;
@@ -1602,11 +1657,12 @@ html body .wrapper .highlights li img {
 html body #header {
   position: fixed;
   left: 0px;
+  z-index: 2;
   width: 100%;
   background: #fcfcfc;
   border-bottom: 1px solid #f6f6f6;
   padding: 0 0 10px;
-  z-index: 2;
+  z-index: 3;
 }
 html body #header .top-img {
   background: url(../images/top.jpg) repeat;
@@ -1708,11 +1764,6 @@ pre + h2 {
 .container {
   margin: 0 auto;
 }
-.container .banner-fade,
-.container .banner-slide,
-.container .a {
-  margin-bottom: 60px;
-}
 .container ul.bjqs-controls.v-centered li a {
   display: block;
   padding: 10px;
@@ -1771,14 +1822,14 @@ pre + h2 {
   left: 0;
 }
 .container ol.bjqs-markers {
-  bottom: 15px;
-  float: right;
+  bottom: -70px;
+  left: 50%;
   list-style: none outside none;
-  margin: 0;
+  margin: 0 0 0 -100px;
   padding: 0;
   position: absolute;
-  right: 15px;
-  width: auto;
+  width: 200px;
+  z-index: 3;
 }
 .container ol.bjqs-markers.h-centered {
   text-align: center;
