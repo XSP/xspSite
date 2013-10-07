@@ -14,7 +14,7 @@
 
 </script>
 <div class="wrapper">
-    <div class="solutions">
+    <div class="enquiry">
         <div class="t-w above"></div>
         <div class="container">
             <div id="map-canvas"></div>

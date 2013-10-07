@@ -1503,6 +1503,10 @@ html body h2 {
   font-size: 50px;
   font-weight: 300;
   margin: 0;
+  margin: -90px 0 65px;
+  position: relative;
+  text-align: center;
+  z-index: 3;
 }
 html body p {
   margin-bottom: 15px;
@@ -1550,24 +1554,32 @@ html body .wrapper .d-w {
   height: 162px;
   width: 100%;
   margin: 0 0 50px;
+  float: left;
+  clear: both;
 }
 html body .wrapper .d-g {
   background: url(../images/d-g.png) no-repeat bottom;
   height: 162px;
   width: 100%;
   margin: 0 0 50px;
+  float: left;
+  clear: both;
 }
 html body .wrapper .t-g {
   background: url(../images/t-g.png) no-repeat top;
   height: 162px;
   width: 100%;
   margin: -130px 0 0;
+  float: left;
+  clear: both;
 }
 html body .wrapper .t-w {
   background: url(../images/t-w.png) no-repeat top;
   height: 162px;
   width: 100%;
   margin: -130px 0 0;
+  float: left;
+  clear: both;
 }
 html body .wrapper .above {
   position: relative;
@@ -1589,11 +1601,14 @@ html body .wrapper .home .container {
 html body .wrapper .company .container {
   background: #ffffff;
   padding: 10px 20px;
+  float: left;
+  clear: both;
 }
 html body .wrapper .solutions .container {
   background: #ffffff;
   padding: 10px 20px;
-  overflow: hidden;
+  float: left;
+  clear: both;
 }
 html body .wrapper .solutions .main {
   float: left;
@@ -1637,12 +1652,22 @@ html body .wrapper .gallery .sec .border {
   height: 1px;
   float: left;
 }
+html body .wrapper .enquiry .container {
+  float: left;
+  clear: both;
+  background: #fff;
+  padding: 10px 20px;
+}
+html body .wrapper .enquiry .container .contact-us {
+  width: 960px;
+}
 html body .wrapper .highlights {
   background: #9ACEC1;
   padding: 20px 0;
   color: #FFFFFF;
   font-size: 17px;
-  overflow: hidden;
+  float: left;
+  clear: both;
 }
 html body .wrapper .highlights li {
   padding: 0 3%;
@@ -1662,7 +1687,7 @@ html body #header {
   background: #fcfcfc;
   border-bottom: 1px solid #f6f6f6;
   padding: 0 0 10px;
-  z-index: 3;
+  z-index: 4;
 }
 html body #header .top-img {
   background: url(../images/top.jpg) repeat;
