@@ -12,13 +12,13 @@ html {
             font-size: 50px;
             font-weight: 300;
             margin: 0;
-            margin: -90px 0 65px;
             position: relative;
             text-align: center;
             z-index: 3;
+            margin: -105px 0 45px;
         }
         p {
-            margin-bottom: 15px;
+            margin: 0;
         }
         #loadingDiv {
             top: 0;
@@ -27,17 +27,22 @@ html {
             height: 100%;
             background: rgba(225, 225, 225, 0.7);
             position: fixed;
-            z-index: 1;
+            z-index: 4;
             img {
                 position: absolute;
                 top: 50%;
                 left: 50%;
+                margin: -35px 0 0 -35px;
             }
         }
         .wrapper {
             position: relative;
             width: 1000px;
             margin: 0 auto;
+            .scroll {
+                position: absolute;
+                top: -170px;
+            }
             h3 {
                 color: @xspBlue;
                 font-size: 24px;
@@ -57,56 +62,85 @@ html {
                 width: 80%;
                 margin: 0 auto;
             }
-            .d-w {
-                background: url(../images/d-w.png) no-repeat bottom;
-                height: 162px;
+            .hexa {
+                height: 176px;
                 width: 100%;
-                margin: 0 0 50px;
-                .fl;
-                .cb;
-            }
-            .d-g {
-                background: url(../images/d-g.png) no-repeat bottom;
-                height: 162px;
-                width: 100%;
-                margin: 0 0 50px;
-                .fl;
-                .cb;
-            }
-            .t-g {
-                background: url(../images/t-g.png) no-repeat top;
-                height: 162px;
-                width: 100%;
-                margin: -130px 0 0;
-                .fl;
-                .cb;
-            }
-            .t-w {
-                background: url(../images/t-w.png) no-repeat top;
-                height: 162px;
-                width: 100%;
-                margin: -130px 0 0;
-                .fl;
-                .cb;
-            }
-            .above {
                 position: relative;
-                z-index: 2;
-            }
-            .below {
-                position: relative;
-                z-index: 1;
+                .fl;
+                .cb;
+                &.top {
+                    margin: -150px 0 0;
+                    &.green {
+                        background: url(../images/t-g.png) no-repeat top;
+                    }
+                    &.white {
+                        background: url(../images/t-w.png) no-repeat top;
+                    }
+                    &.above {
+                        z-index: 2;
+                        .shadow{
+                            background: url("../images/suo.png") no-repeat center bottom;
+                            height: 191px;
+                            left: -1px;
+                            position: relative;
+                            width: 1002px;
+                        }
+                    }
+                    &.below {
+                        z-index: 1;
+                        .shadow{
+                            background: url("../images/sdo.png") no-repeat center bottom;
+                            height: 176px;
+                            position: relative;
+                            width: 1001px;
+                        }
+                    }
+                }
+                &.bottom {
+                    margin: 0 0 50px;
+                    &.green {
+                        background: url(../images/d-g.png) no-repeat bottom;
+                    }
+                    &.white {
+                        background: url(../images/d-w.png) no-repeat bottom;
+                    }
+                    &.above {
+                        position: relative;
+                        z-index: 2;
+                        .shadow{
+                            background: url(../images/sdo.png) no-repeat;
+                            height: 176px;
+                            left: -25px;
+                            position: relative;
+                            width: 1025px;
+                            top: -13px;
+                        }
+                    }
+                    &.below {
+                        position: relative;
+                        z-index: 1;
+                        .shadow{
+                            background: url(../images/sdi.png) no-repeat center top;
+                            height: 180px;
+                            left: -2px;
+                            position: relative;
+                            top: -12px;
+                            width: 1004px;
+                        }
+                    }
+                }
             }
             .home {
                 margin: 92px 0 0;
                 .container {
                     background: @white;
-                    .box-shadow(0 0 2px #EEEEEE);
+                    //.box-shadow(0 0 5px #666666);
                 }
             }
             .company {
                 .container {
                     background: @white;
+                    //.box-shadow(0 0 5px #666666);
                     padding: 10px 20px;
                     .fl;
                     .cb;
@@ -115,6 +149,7 @@ html {
             .solutions {
                 .container {
                     background: @white;
+                    //.box-shadow(0 0 5px #666666);
                     padding: 10px 20px;
                     .fl;
                     .cb;
@@ -166,6 +201,7 @@ html {
                     .fl;
                     .cb;
                     background: #fff;
+                    //.box-shadow(0 0 5px #666666);
                     padding: 10px 20px;
                     .contact-us {
                         width: 960px;
@@ -174,9 +210,9 @@ html {
             }
             .highlights {
                 background: #9ACEC1;
-                padding: 20px 0;
                 color: #FFFFFF;
                 font-size: 17px;
+                //.box-shadow(0 0 6px #666666);
                 .fl;
                 .cb;
                 li {
@@ -186,7 +222,7 @@ html {
                     img {
                         float: left;
                         height: 80px;
-                        padding: 20px 20px 0 0;
+                        padding: 5px 20px 0 0;
                     }
                 }
             }
@@ -199,7 +235,7 @@ html {
             background: #fcfcfc;
             border-bottom: 1px solid #f6f6f6;
             padding: 0 0 10px;
-            z-index: 4;
+            z-index: 5;
             .top-img {
                 background: url(../images/top.jpg) repeat;
                 position: absolute;

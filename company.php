@@ -1,7 +1,10 @@
 <div class="wrapper">
     <div class="company">
-        <div class="t-w above"></div>
+        <div class="hexa top white above">
+            <!--<div class="shadow"></div>-->
+        </div>
         <div class="container">
+            <div class="scroll"></div>
             <h2>Company</h2>
 
             <p>XSP < XtraSensoryPerception /> started as the joint operation between designer and developer. To
@@ -49,6 +52,8 @@
                 </li>
             </ul>
         </div>
-        <div class="d-w below"></div>
+        <div class="hexa bottom white below">
+            <!--<div class="shadow"></div>-->
+        </div>
     </div>
 </div>

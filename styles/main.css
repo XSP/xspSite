@@ -1503,13 +1503,13 @@ html body h2 {
   font-size: 50px;
   font-weight: 300;
   margin: 0;
-  margin: -90px 0 65px;
   position: relative;
   text-align: center;
   z-index: 3;
+  margin: -105px 0 45px;
 }
 html body p {
-  margin-bottom: 15px;
+  margin: 0;
 }
 html body #loadingDiv {
   top: 0;
@@ -1518,17 +1518,22 @@ html body #loadingDiv {
   height: 100%;
   background: rgba(225, 225, 225, 0.7);
   position: fixed;
-  z-index: 1;
+  z-index: 4;
 }
 html body #loadingDiv img {
   position: absolute;
   top: 50%;
   left: 50%;
+  margin: -35px 0 0 -35px;
 }
 html body .wrapper {
   position: relative;
   width: 1000px;
   margin: 0 auto;
+}
+html body .wrapper .scroll {
+  position: absolute;
+  top: -170px;
 }
 html body .wrapper h3 {
   color: #1ebcee;
@@ -1549,54 +1554,79 @@ html body .wrapper > .width80 {
   width: 80%;
   margin: 0 auto;
 }
-html body .wrapper .d-w {
-  background: url(../images/d-w.png) no-repeat bottom;
-  height: 162px;
+html body .wrapper .hexa {
+  height: 176px;
   width: 100%;
-  margin: 0 0 50px;
+  position: relative;
   float: left;
   clear: both;
 }
-html body .wrapper .d-g {
-  background: url(../images/d-g.png) no-repeat bottom;
-  height: 162px;
-  width: 100%;
-  margin: 0 0 50px;
-  float: left;
-  clear: both;
+html body .wrapper .hexa.top {
+  margin: -150px 0 0;
 }
-html body .wrapper .t-g {
+html body .wrapper .hexa.top.green {
   background: url(../images/t-g.png) no-repeat top;
-  height: 162px;
-  width: 100%;
-  margin: -130px 0 0;
-  float: left;
-  clear: both;
 }
-html body .wrapper .t-w {
+html body .wrapper .hexa.top.white {
   background: url(../images/t-w.png) no-repeat top;
-  height: 162px;
-  width: 100%;
-  margin: -130px 0 0;
-  float: left;
-  clear: both;
 }
-html body .wrapper .above {
+html body .wrapper .hexa.top.above {
+  z-index: 2;
+}
+html body .wrapper .hexa.top.above .shadow {
+  background: url("../images/suo.png") no-repeat center bottom;
+  height: 191px;
+  left: -1px;
+  position: relative;
+  width: 1002px;
+}
+html body .wrapper .hexa.top.below {
+  z-index: 1;
+}
+html body .wrapper .hexa.top.below .shadow {
+  background: url("../images/sdo.png") no-repeat center bottom;
+  height: 176px;
+  position: relative;
+  width: 1001px;
+}
+html body .wrapper .hexa.bottom {
+  margin: 0 0 50px;
+}
+html body .wrapper .hexa.bottom.green {
+  background: url(../images/d-g.png) no-repeat bottom;
+}
+html body .wrapper .hexa.bottom.white {
+  background: url(../images/d-w.png) no-repeat bottom;
+}
+html body .wrapper .hexa.bottom.above {
   position: relative;
   z-index: 2;
 }
-html body .wrapper .below {
+html body .wrapper .hexa.bottom.above .shadow {
+  background: url(../images/sdo.png) no-repeat;
+  height: 176px;
+  left: -25px;
+  position: relative;
+  width: 1025px;
+  top: -13px;
+}
+html body .wrapper .hexa.bottom.below {
   position: relative;
   z-index: 1;
+}
+html body .wrapper .hexa.bottom.below .shadow {
+  background: url(../images/sdi.png) no-repeat center top;
+  height: 180px;
+  left: -2px;
+  position: relative;
+  top: -12px;
+  width: 1004px;
 }
 html body .wrapper .home {
   margin: 92px 0 0;
 }
 html body .wrapper .home .container {
   background: #ffffff;
-  -webkit-box-shadow: 0 0 2px #eeeeee;
-  -moz-box-shadow: 0 0 2px #eeeeee;
-  box-shadow: 0 0 2px #eeeeee;
 }
 html body .wrapper .company .container {
   background: #ffffff;
@@ -1663,7 +1693,6 @@ html body .wrapper .enquiry .container .contact-us {
 }
 html body .wrapper .highlights {
   background: #9ACEC1;
-  padding: 20px 0;
   color: #FFFFFF;
   font-size: 17px;
   float: left;
@@ -1677,7 +1706,7 @@ html body .wrapper .highlights li {
 html body .wrapper .highlights li img {
   float: left;
   height: 80px;
-  padding: 20px 20px 0 0;
+  padding: 5px 20px 0 0;
 }
 html body #header {
   position: fixed;
@@ -1687,7 +1716,7 @@ html body #header {
   background: #fcfcfc;
   border-bottom: 1px solid #f6f6f6;
   padding: 0 0 10px;
-  z-index: 4;
+  z-index: 5;
 }
 html body #header .top-img {
   background: url(../images/top.jpg) repeat;

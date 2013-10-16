@@ -15,9 +15,12 @@
 </script>
 <div class="wrapper">
     <div class="enquiry">
-        <div class="t-w above"></div>
+        <div class="hexa top white above">
+            <!--<div class="shadow"></div>-->
+        </div>
         <div class="container">
             <div id="map-canvas"></div>
+            <div class="scroll"></div>
             <h2>Contact us</h2>
 
             <div class="contact-us">
@@ -40,6 +43,8 @@
                 </div>
             </div>
         </div>
-        <div class="d-w"></div>
+        <div class="hexa bottom white below">
+            <!--<div class="shadow"></div>-->
+        </div>
     </div>
 </div>

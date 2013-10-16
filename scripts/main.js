@@ -33,11 +33,11 @@ $(function () {
         if ($("#" + loadPage).is(":empty")) {
             $("#" + loadPage).load(loadPage + ".php", function () {
                 //$(".wrapper").attr("style", "min-height:" + visibleHeight + "px;");
-                $(window).scrollTo($(this), 300);
+                $(window).scrollTo($("#" + loadPage + " " + ".scroll"), 300);
             });
         }
         else {
-            $(window).scrollTo($("#" + loadPage), 300);
+            $(window).scrollTo($("#" + loadPage + " " + ".scroll"), 300);
         }
     });
 

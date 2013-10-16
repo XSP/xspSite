@@ -1,7 +1,10 @@
 <div class="wrapper">
     <div class="solutions">
-        <div class="t-w above"></div>
+        <div class="hexa top white above">
+            <!--<div class="shadow"></div>-->
+        </div>
         <div class="container">
+            <div class="scroll"></div>
             <h2>Solutions</h2>
 
             <div class="solution">
@@ -74,6 +77,8 @@
                 </ul>
             </div>
         </div>
-        <div class="d-w"></div>
+        <div class="hexa bottom white below">
+            <!--<div class="shadow"></div>-->
+        </div>
     </div>
 </div>

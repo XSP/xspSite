@@ -1,5 +1,6 @@
 <div class="wrapper">
     <div class="width-res">
+        <div class="scroll"></div>
         <h2>Show off</h2>
 
         <div class="gallery">
