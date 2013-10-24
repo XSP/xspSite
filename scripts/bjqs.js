@@ -23,7 +23,7 @@
         var defaults        = {
 
             // w + h to enforce consistency
-            width           : 1600,
+            width           : 1008,
             height          : 580,
 
             // transition valuess

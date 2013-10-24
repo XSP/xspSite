@@ -5,17 +5,11 @@
         <div class="container">
             <div class="banner-fade">
                 <ul class="bjqs">
-                    <li><img src="images/banner/ecommerce.jpg" title=" "></li>
-                    <li><img src="images/banner/responsive.jpg" title=" "></li>
-                    <li><img src="images/banner/branding.jpg" title=" "></li>
+                    <li><img src="images/ecommerce-banner.png" title=" "></li>
+                    <li><img src="images/responsive-banner.png" title=" "></li>
+                    <li><img src="images/branding-banner.png" title=" "></li>
                 </ul>
             </div>
-        </div>
-        <div class="hexa bottom white above">
-            <!--<div class="shadow"></div>-->
-        </div>
-        <div class="hexa top green below">
-            <!--<div class="shadow"></div>-->
         </div>
         <div class="highlights">
             <div class="width-res">
@@ -26,34 +20,11 @@
                             for our clients to beat traditional limitations in business.</p></li>
                     <li><img src="images/rocket.png"/>
 
-                        <p>New technologies are the best vehicles to head towards challenges. We harvest the
-                            newest technology available in market, so do we head the race always.</p></li>
+                        <p>New technologies are the best vehicles to head towards challenges. We harvest
+                            newest technology available in the market, so do we head the race always.</p></li>
                 </ul>
             </div>
         </div>
-        <div class="hexa bottom green below">
-            <!--<div class="shadow"></div>-->
-        </div>
-    </div>
-    <div class="hexa top green below">
-        <!--<div class="shadow"></div>-->
-    </div>
-    <div class="highlights">
-        <div class="width-res">
-            <ul>
-                <li><img src="images/brain.png"/>
-
-                    <p>At XSP we believe in internet to provide better opportunities, markets and potentials
-                        for our clients to beat traditional limitations in business.</p></li>
-                <li><img src="images/rocket.png"/>
-
-                    <p>New technologies are the best vehicles to head towards challenges. We harvest the
-                        newest technology available in market, so do we head the race always.</p></li>
-            </ul>
-        </div>
-    </div>
-    <div class="hexa bottom green below">
-        <!--<div class="shadow"></div>-->
     </div>
 </div>
 </div>
@@ -65,7 +36,7 @@
             centercontrols: false,
             usecaptions: false,
             randomstart: false,
-            responsive: true
+            responsive: false
         });
 
     });

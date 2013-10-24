@@ -1528,7 +1528,7 @@ html body #loadingDiv img {
 }
 html body .wrapper {
   position: relative;
-  width: 1000px;
+  width: 1008px;
   margin: 0 auto;
 }
 html body .wrapper .scroll {
@@ -1625,14 +1625,45 @@ html body .wrapper .hexa.bottom.below .shadow {
 html body .wrapper .home {
   margin: 92px 0 0;
 }
-html body .wrapper .home .container {
-  background: #ffffff;
+html body .wrapper .company {
+  color: #FFFFFF;
+}
+html body .wrapper .company h2 {
+  font-size: 50px;
+  font-weight: 100;
+  margin: 45px 0;
+  text-align: center;
 }
 html body .wrapper .company .container {
-  background: #ffffff;
+  background: url("../images/company-bg.png") no-repeat;
+  height: 654px;
+  margin: -100px 0 0;
   padding: 10px 20px;
+  position: relative;
+  z-index: 1;
+}
+html body .wrapper .company .container p {
   float: left;
-  clear: both;
+  line-height: 22px;
+  margin: 5px 20px;
+  width: 40%;
+}
+html body .wrapper .company .detail {
+  background: url("../images/company-text-bg.png") no-repeat scroll 0 0 rgba(0, 0, 0, 0);
+  float: left;
+  height: 320px;
+  margin: -190px 0 100px;
+  padding: 180px 30px 0;
+}
+html body .wrapper .company .detail .left {
+  float: left;
+  text-align: justify;
+  width: 45%;
+}
+html body .wrapper .company .detail .right {
+  float: right;
+  text-align: right;
+  width: 45%;
 }
 html body .wrapper .solutions .container {
   background: #ffffff;
@@ -1692,11 +1723,12 @@ html body .wrapper .enquiry .container .contact-us {
   width: 960px;
 }
 html body .wrapper .highlights {
-  background: #9ACEC1;
+  background: url("../images/home-text-bg-1.png") no-repeat scroll center top rgba(0, 0, 0, 0);
   color: #FFFFFF;
   font-size: 17px;
-  float: left;
-  clear: both;
+  height: 330px;
+  margin: -140px 0 0;
+  padding: 230px 0 0;
 }
 html body .wrapper .highlights li {
   padding: 0 3%;
@@ -1876,7 +1908,7 @@ pre + h2 {
   left: 0;
 }
 .container ol.bjqs-markers {
-  bottom: -70px;
+  bottom: 80px;
   left: 50%;
   list-style: none outside none;
   margin: 0 0 0 -100px;
