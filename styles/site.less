@@ -179,22 +179,54 @@ html {
             }
             .solutions {
                 .container {
-                    background: @white;
-                    //.box-shadow(0 0 5px #666666);
-                    padding: 10px 20px;
+                    background: url("../images/solutions-bg.png") no-repeat scroll center top rgba(0, 0, 0, 0);
+                    clear: both;
+                    color: #FFFFFF;
                     .fl;
-                    .cb;
+                    height: 330px;
+                    margin: -239px 0 0;
+                    padding: 175px 20px;
+                    position: relative;
                 }
                 .main {
                     .fl;
-                    font-size: 20px;
+                    font-size: 16px;
                     line-height: 32px;
-                    padding: 5px;
+                    padding: 5px 0 0 25px;
                     width: 25%;
                 }
-                .detail {
-                    .fr;
-                    width: 65%;
+                ul.detail {
+                    position: relative;
+                    .fl;
+                    .cb;
+                    width: 100%;
+                    li {
+                        color: #FFFFFF;
+                        background: url(../images/solutions-bg-1.png) no-repeat center top;
+                        height: 330px;
+                        padding: 100px 30px 0;
+                        position: relative;
+                        width: 440px;
+                        .fl;
+                        &.commerce {
+                            margin: -120px 0 0 25.5%;
+                        }
+                        &.web {
+                            margin: 143px 0 0 -75%;
+                        }
+                        &.responsive {
+                            margin: -165px 0 0 50%;
+                        }
+                        &.platform {
+                            margin: -165px 0 0 25%;
+                        }
+                        &.mobile {
+                            margin: 100px 0 0 -75%;
+                        }
+                        &.cloud {
+                            margin: -165px 0 0 50%;
+                        }
+                    }
                 }
             }
             .gallery {
