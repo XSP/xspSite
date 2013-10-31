@@ -1,9 +1,8 @@
-<!DOCTYPE html>
 <html>
 <head>
     <meta charset="UTF-8">
     <title>XSP &#60;Xtra Sensory Perception&#62;</title>
-    <link href="../images/favIcon.png" rel="shortcut icon">
+    <link href="images/favico.png" rel="shortcut icon">
     <link rel="stylesheet" type="text/css" href="styles/main.css">
     <meta name="viewport" content="width=device-width; initial-scale=1.0">
     <script src="https://maps.googleapis.com/maps/api/js?v=3.exp&sensor=false"></script>
