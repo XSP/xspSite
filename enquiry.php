@@ -18,8 +18,7 @@
                                   name="message"></textarea>
                         <br/>
                         <input type="hidden" value="1" name="priority"/>
-                        <input type="submit" class="btn floatR clear clearWidth" name="submit"
-                               value="submit">
+                        <input type="submit" name="submit" class="btn" value="submit">
                     </form>
                 </div>
             </div>

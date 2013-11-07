@@ -1,11 +1,15 @@
+<!doctype html>
 <html>
 <head>
     <meta charset="UTF-8">
     <title>XSP &#60;Xtra Sensory Perception&#62;</title>
     <link href="images/favico.png" rel="shortcut icon">
     <link rel="stylesheet" type="text/css" href="styles/main.css">
+<!--
     <meta name="viewport" content="width=device-width; initial-scale=1.0">
+-->
     <script src="https://maps.googleapis.com/maps/api/js?v=3.exp&sensor=false"></script>
+    <script type="text/javascript"></script>
 </head>
 <body lang="en">
 <div id="header">
@@ -36,7 +40,9 @@
 </a>
 <footer>© Copy Rights reserved - XSP Xtra Sensory Perception</footer>
 <script src="//code.jquery.com/jquery-2.0.3.js" type="text/javascript"></script>
-<script src="//cdnjs.cloudflare.com/ajax/libs/jquery-scrollTo/1.4.5/jquery.scrollTo.min.js" type="text/javascript"></script>
+<!--<script src="scripts/easing.js" type="text/javascript"></script>-->
+<script src="//cdnjs.cloudflare.com/ajax/libs/jquery-scrollTo/1.4.5/jquery.scrollTo.min.js"
+        type="text/javascript"></script>
 <script src="scripts/main.js" type="text/javascript"></script>
 <!--<script data-main="scripts/main" src="scripts/require.js" type="text/javascript"></script>-->
 </body>

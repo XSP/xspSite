@@ -41,7 +41,7 @@ html {
             margin: 0 auto;
             .scroll {
                 position: absolute;
-                top: -170px;
+                top: -80px;
             }
             h3 {
                 color: @xspBlue;
@@ -79,7 +79,7 @@ html {
                     &.above {
                         z-index: 2;
                         .shadow {
-                            background: url("../images/suo.png") no-repeat center bottom;
+                            background: url(../images/suo.png) no-repeat center bottom;
                             height: 191px;
                             left: -1px;
                             position: relative;
@@ -89,7 +89,7 @@ html {
                     &.below {
                         z-index: 1;
                         .shadow {
-                            background: url("../images/sdo.png") no-repeat center bottom;
+                            background: url(../images/sdo.png) no-repeat center bottom;
                             height: 176px;
                             position: relative;
                             width: 1001px;
@@ -146,7 +146,7 @@ html {
                     text-align: center;
                 }
                 .container {
-                    background: url("../images/company-bg.png") no-repeat;
+                    background: url(../images/company-bg.png) no-repeat;
                     height: 654px;
                     margin: -100px 0 0;
                     padding: 10px 20px;
@@ -160,7 +160,7 @@ html {
                     }
                 }
                 .detail {
-                    background: url("../images/company-text-bg.png") no-repeat scroll 0 0 rgba(0, 0, 0, 0);
+                    background: url(../images/company-text-bg.png) no-repeat scroll 0 0 rgba(0, 0, 0, 0);
                     .fl;
                     height: 320px;
                     margin: -190px 0 100px;
@@ -179,7 +179,7 @@ html {
             }
             .solutions {
                 .container {
-                    background: url("../images/solutions-bg.png") no-repeat scroll center top rgba(0, 0, 0, 0);
+                    background: url(../images/solutions-bg.png) no-repeat scroll center top rgba(0, 0, 0, 0);
                     clear: both;
                     color: #FFFFFF;
                     .fl;
@@ -263,16 +263,19 @@ html {
                     .cb;
                     background: url(../images/contact-bg.png) no-repeat center top;
                     height: 532px;
-                    padding: 200px 100px 0;
+                    padding: 170px 100px 0;
                     width: 804px;
                     .contact-us {
                         width: 960px;
+                    }
+                    #myform {
+                        .fl;
                     }
                 }
 
             }
             .highlights {
-                background: url("../images/home-text-bg-1.png") no-repeat scroll center top rgba(0, 0, 0, 0);
+                background: url(../images/home-text-bg-1.png) no-repeat scroll center top rgba(0, 0, 0, 0);
                 color: #FFFFFF;
                 font-size: 17px;
                 height: 330px;
@@ -370,6 +373,27 @@ html {
             }
         }
     }
+}
+
+input[type='text'], textarea {
+    border: 0 none;
+    border-radius: 2px 2px 2px 2px;
+    box-shadow: 0 4px 6px -5px #999999 inset;
+    clear: both;
+    color: #999999;
+    float: left;
+    margin: 5px 0;
+    outline: 0 none;
+    padding: 10px;
+}
+
+.btn {
+    background: #9586BB;
+    border: medium none;
+    color: #FFFFFF;
+    margin: 10px 0 0;
+    padding: 10px 15px;
+    text-transform: uppercase;
 }
 
 .csstransitions a, .csstransitions a img, .csstransitions input[type="submit"], .csstransitions button {
